@@ -5,13 +5,13 @@ project:
     - python xlsx_to_yml.py  # Automatically generate publications.yml from publications.xlsx
     
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+description-meta: "Wen Xu — Philosophy, AI, and Social Epistemology"
+author-meta: "Wen Xu"
 
 website:
   title: "Wen Xu"
   image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  description: "Wen Xu — Philosophy, AI, and Social Epistemology"
  
   navbar:
     background: light  # You can change the background color here
