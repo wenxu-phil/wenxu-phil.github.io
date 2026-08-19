@@ -6,19 +6,19 @@ title-block-banner: false
 
 <center>
 
-**Quarto Academic**
+**Wen Xu**
 
-School
+Department of Philosophy
 
-College
+#College
 
-University
+University of Colorado Boulder
 
-Address: 
+#Address: 
 
-Phone: 
+#Phone: 
 
-E-mail: 
+E-mail: wexu1930@colorado.edu
 
 
 </center>
