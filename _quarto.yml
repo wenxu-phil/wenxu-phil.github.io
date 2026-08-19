@@ -14,7 +14,7 @@ website:
   description: "Wen Xu — Philosophy, AI, and Social Epistemology"
  
   navbar:
-    background: "#2F3330"  # You can change the background color here
+    background:  "#3E4A47" # You can change the background color here, "#2F3330"
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
@@ -79,7 +79,7 @@ website:
     location: navbar
     type: textbox
   
-  reader-mode: true
+  # reader-mode: true
 
   draft-mode: unlinked
   
