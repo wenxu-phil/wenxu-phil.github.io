@@ -54,6 +54,10 @@ about:
 
 :::{#hero-heading}
 
+::: {#interest-tags-source}
+[Philosophy of AI]{.tag} [Epistemology]{.tag}
+:::
+
 I'm a PhD Candidate in Philosophy and Cognitive Science at the University of Colorado Boulder.
 
 My research focuses on the intersection of philosophy of AI and epistemology.
