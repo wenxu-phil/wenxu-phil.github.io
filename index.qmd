@@ -1,6 +1,7 @@
 ---
 title: "Wen Xu"
-subtitle: "PhD Student"
+#subtitle: "PhD Student"
+subtitle: "PhD Student, University of Colorado Boulder<br>Philosophy & Cognitive Science"
 description-meta: "Wen Xu — Philosophy, AI, and Epistemology"
 image: "files/images/Nico.png"
 page-navigation: false
