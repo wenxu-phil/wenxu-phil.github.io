@@ -1,6 +1,6 @@
 /* css styles */
 .subtitle-role {
-  font-size: 1.15rem;
+  font-size: 1.rem;
   font-weight: 600;
   color: #374151;
 }
@@ -12,7 +12,7 @@
 }
 
 .subtitle-dept {
-  font-size: 0.9rem;
+  font-size: 1rem;
   font-weight: 400;
   font-style: italic;
   color: #9ca3af;
