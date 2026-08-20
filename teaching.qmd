@@ -41,7 +41,7 @@ title-block-banner: false
 :::
 :::
 
-#### Nature and Limits of Human Knowledge,
+#### Nature and Limits of Human Knowledge
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder2.JPG)
