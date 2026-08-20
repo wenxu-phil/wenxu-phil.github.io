@@ -10,6 +10,8 @@ listing:
   sort-ui: true
   filter-ui: true
   feed: true
+  field-display-names:
+    date: "Updated"
   contents: 
       - posts
       - posts/post-links.yml  # Use this file to add external links
