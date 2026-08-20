@@ -1,9 +1,9 @@
 ---
-title: "On Bullshit and Bullshitting: The Case of Large Language Models."
+title: "On Bullshit and Bullshitting: The LLM Case."
 description: "*Center for Values and Social Policy*, Univeristy of Colorado Boulder"
 author: "Wen Xu"
 date: "2026-3-13"
-categories: [Presentation]
+categories: [Workshops & Presentations]
 image: "/files/images/placeholder2.JPG"
 #css: /custom.css
 #draft: true
