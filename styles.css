@@ -90,3 +90,13 @@ img.about-image {
   text-align: center;
   box-shadow: 0 1px 3px rgba(0,0,0,0.06);
 }
+
+/*Research Page*/
+.quarto-title-meta-heading {
+  font-size: 0;   /* hide "Published" text */
+}
+
+.quarto-title-meta-heading::before {
+  content: "Updated";
+  font-size: 0.8rem;   /* restore normal size for the new label */
+}
