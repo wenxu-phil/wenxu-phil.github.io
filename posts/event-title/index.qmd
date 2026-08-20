@@ -2,7 +2,7 @@
 title: "On Bullshit and Bullshitting: The Case of Large Language Models."
 description: "Center for Values and Social Policy, Univeristy of Colorado Boulder"
 author: "Talk"
-date: "2026-3"
+date: "2026-3-13"
 categories: [presentation]
 image: "/files/images/placeholder2.JPG"
 #css: /custom.css
@@ -16,10 +16,10 @@ image: "/files/images/placeholder2.JPG"
 
 {{< include /files/includes/_socialshare.qmd >}}
 
-title: "Mathematics in Plato’s Republic."
+title: "Plato on Arithmetic."
 description: "The Society for Ancient Greek Philosophy Annual Meeting, Christopher Newport University"
 author: "Talk"
-date: "2019-11"
+date: "2019-11-17"
 categories: [presentation]
 image: "/files/images/placeholder2.JPG"
 #css: /custom.css
