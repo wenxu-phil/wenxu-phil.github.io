@@ -4,51 +4,9 @@ title: "Teaching"
 title-block-banner: false
 ---
 
-## Christopher Newport University
+## University of Denver
 
-### Instructor
-
-#### Introduction to Philosophy
-::: {.grid}
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
-:::
-::: {.g-col-12 .g-col-md-10}
-[Fall 2025](https://www.google.com), &nbsp; [Spring 2025](https://www.google.com)
-
-Course introduction for Intro to Philosophy at CNU.
-:::
-:::
-
-#### Class 2 at CNU
-::: {.grid}
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
-:::
-::: {.g-col-12 .g-col-md-10}
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 2 introduction.
-:::
-:::
-
-### Teaching Assistant
-
-#### Class 3 at CNU
-::: {.grid}
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
-:::
-::: {.g-col-12 .g-col-md-10}
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
-
-Class 3 introduction.
-:::
-:::
-
-## Duquesne University
-
-### Instructor
+### Instructor of Record
 
 #### Discovering Philosophy
 ::: {.grid}
@@ -56,24 +14,161 @@ Class 3 introduction.
 ![](files/images/placeholder1.jpg)
 :::
 ::: {.g-col-12 .g-col-md-10}
-[Fall 2024](https://www.google.com)
+[Winter 2025]
 
-Course introduction for Discovering Philosophy at DU (equivalent to Intro to Philosophy at CNU).
+Course introduction
 :::
 :::
 
-### Teaching Assistant
-
-#### Another Class at DU
+#### Classical Greek Philosophy
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder2.JPG)
 :::
 ::: {.g-col-12 .g-col-md-10}
-[Fall 2023](https://www.google.com)
+[Winter 2025]
+
+Class 2 introduction.
+:::
+:::
+
+#### Philosophy of Mind
+::: {.grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+[Spring 2025]
+
+Class introduction.
+:::
+:::
+
+#### Nature and Limits of Human Knowledge,
+::: {.grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+[Fall 2025], &nbsp; [Spring 2025]
+
+Class introduction.
+:::
+:::
+
+#### Philosophy of Language
+::: {.grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+[Winter 2026]
+
+Class introduction.
+:::
+:::
+
+#### Philosophy of AI
+::: {.grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+[Fall 2026]
+
+Class introduction.
+:::
+:::
+
+### Teaching Assistant
+
+##  University of Colorado Boulder
+
+### Instructor of Record
+
+#### Introduction to Philosophy
+::: {.grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder1.jpg)
+:::
+::: {.g-col-12 .g-col-md-10}
+[Spring 2023](https://www.google.com)
+
+Course introduction (equivalent to Discovering Philosophy at DU).
+:::
+:::
+
+#### Introduction to Western Philosophy: Ancient
+::: {.grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+[Fall 2023], &nbsp; [Fall 2023]
+
+Class introduction (equivalent to Classical Greek Philosophy at DU).
+:::
+:::
+
+#### History of Ancient Philosophy
+::: {.grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+[Summer 2023]
+
+Class introduction (online, synchronous).
+:::
+:::
+
+### Teaching Assistant
+
+#### Introduction to Philosophy
+::: {.grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+[Fall 2020]
 
 Course introduction.
 :::
 :::
 
+#### Critical Thinking
+::: {.grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+[Fall 2021], &nbsp; [Spring 2021]
+
+Course introduction.
+:::
+:::
+
+#### Symbolic Logic
+::: {.grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+[Spring 2022]
+
+Course introduction.
+:::
+:::
+
+#### History of Ancient Philosophy
+::: {.grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+[Summer 2024], &nbsp; [Summer 2020], &nbsp; [Spring 2019]
+
+Course introduction.
+:::
+:::
 
