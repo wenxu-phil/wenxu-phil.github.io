@@ -79,3 +79,9 @@ img.about-image {
 .copy-btn:hover {
   background: #dce6e1;
 }
+
+.contact-card {
+  max-width: 420px;
+  margin: 2rem 0 2rem 1rem;  /* small left offset */
+  ...
+}
