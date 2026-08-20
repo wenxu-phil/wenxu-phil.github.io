@@ -17,3 +17,22 @@
   font-style: italic;
   color: #9ca3af;
 }
+
+#interest-tags-source {
+  display: none;          /* hidden until JS moves + shows it */
+  margin-top: 1rem;
+  text-align: center;     /* trestles left column is center-aligned */
+}
+
+.tag {
+  display: inline-block;
+  background-color: #eef2f0;
+  color: #687F78;
+  border: 1px solid #cdd8d4;
+  border-radius: 999px;
+  padding: 0.25rem 0.85rem;
+  margin: 0.2rem 0.3rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
