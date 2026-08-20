@@ -23,10 +23,12 @@ University of Colorado Boulder
   <button onclick="copyEmail()" class="copy-btn" id="copy-btn">Copy</button>
 </div>
 
-#<div class="contact-row">
- # <i class="bi bi-geo-alt"></i>
-  #<span>[Room ___, Humanities Building, Boulder, CO]</span>
-#</div>
+<!--
+<div class="contact-row">
+  <i class="bi bi-geo-alt"></i>
+  <span>[Room ___, Humanities Building, Boulder, CO]</span>
+</div>
+-->
 
 :::
 
