@@ -44,12 +44,7 @@ website:
         href: files/nsf-biosketch.pdf
         target: _blank
       - text: Contact
-        href: contact.qmd
-      # - text: Presentation
-      #   href: posts.qmd#category=presentation
-        # menu:        
-        # - text: Presentations
-        #   href: posts.qmd#category=presentation                   
+        href: contact.qmd                  
       # - text: Group   # Comment the Group part out to remove the Group page
       #   href: people.qmd
 
