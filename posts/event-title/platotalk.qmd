@@ -4,7 +4,7 @@ description: "*The Society for Ancient Greek Philosophy Annual Meeting*, Christo
 author: "Wen Xu"
 date: "2019-11-17"
 categories: [Presentations]
-<!--image: "/files/images/placeholder2.JPG"-->
+#image: "/files/images/placeholder2.JPG"
 #css: /custom.css
 #draft: true
 ---
