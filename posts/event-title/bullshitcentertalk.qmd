@@ -4,7 +4,7 @@ description: "*Center for Values and Social Policy*, Univeristy of Colorado Boul
 author: "Wen Xu"
 date: "2026-3-13"
 categories: [Presentations]
-<!--image: "/files/images/placeholder2.JPG"-->
+<!-- image: "/files/images/placeholder2.JPG" -->
 #css: /custom.css
 #draft: true
 ---
