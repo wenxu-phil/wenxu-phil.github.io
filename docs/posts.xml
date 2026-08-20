@@ -47,17 +47,8 @@ https://quarto.org/docs/authoring/includes.html
   <media:content url="https://wenxu-phil.github.io/files/images/placeholder2.JPG" medium="image"/>
 </item>
 <item>
-  <title>Quarto Academic Website Examples and Tips</title>
-  <link>https://wenxu-phil.github.io/</link>
-  <description>Examples and tips for Quarto Academic Website</description>
-  <category>news</category>
-  <guid>https://wenxu-phil.github.io/</guid>
-  <pubDate>Tue, 15 Oct 2024 06:00:00 GMT</pubDate>
-  <media:content url="https://wenxu-phil.github.io/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>News item</title>
-  <dc:creator>News </dc:creator>
+  <title>AI, Social Media, and Epistemic Agency: A Reply to Coeckelbergh</title>
+  <dc:creator>Matthias Steup &amp; Wen Xu</dc:creator>
   <link>https://wenxu-phil.github.io/posts/publications-title/</link>
   <description><![CDATA[ 
 
@@ -66,7 +57,6 @@ https://quarto.org/docs/authoring/includes.html
 
 <section id="summary" class="level2">
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>About the news</p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -82,10 +72,19 @@ https://quarto.org/docs/authoring/includes.html
 </section>
 
  ]]></description>
-  <category>news</category>
+  <category>publications</category>
   <guid>https://wenxu-phil.github.io/posts/publications-title/</guid>
-  <pubDate>Mon, 24 Jun 2024 06:00:00 GMT</pubDate>
+  <pubDate>Fri, 12 Sep 2025 06:00:00 GMT</pubDate>
   <media:content url="https://wenxu-phil.github.io/files/images/placeholder3.JPG" medium="image"/>
+</item>
+<item>
+  <title>Quarto Academic Website Examples and Tips</title>
+  <link>https://wenxu-phil.github.io/</link>
+  <description>Examples and tips for Quarto Academic Website</description>
+  <category>news</category>
+  <guid>https://wenxu-phil.github.io/</guid>
+  <pubDate>Tue, 15 Oct 2024 06:00:00 GMT</pubDate>
+  <media:content url="https://wenxu-phil.github.io/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Plato on Arithmetic.</title>
