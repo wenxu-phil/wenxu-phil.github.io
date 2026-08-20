@@ -1,9 +1,19 @@
 /* css styles */
-.profile-subtitle {
-  font-size: 1.05rem;
+.subtitle-role {
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: #374151;
+}
+
+.subtitle-inst {
+  font-size: 1rem;
   font-weight: 400;
-  color: #6b7280;       /* muted gray, adjust to taste */
-  line-height: 1.4;
-  margin-top: -0.4rem;  /* pulls it closer to the name heading */
-  margin-bottom: 1rem;
+  color: #6b7280;
+}
+
+.subtitle-dept {
+  font-size: 0.9rem;
+  font-weight: 400;
+  font-style: italic;
+  color: #9ca3af;
 }
