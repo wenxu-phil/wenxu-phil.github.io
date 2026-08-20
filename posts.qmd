@@ -21,6 +21,7 @@ listing:
 draft-mode: unlinked
 page-navigation: false
 title-block-banner: false
+css: custom.css
 ---
 
 :::{#posts}
