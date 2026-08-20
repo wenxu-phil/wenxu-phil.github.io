@@ -4,7 +4,7 @@
     "href": "posts.html",
     "title": "Research",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nOn Bullshit and Bullshitting: The Case of Large Language Models.\n\n\n\n\n\n\npresentation\n\n\n\nCenter for Values and Social Policy, Univeristy of Colorado Boulder\n\n\n\n\n\nMar 13, 2026\n\n\nWen Xu\n\n\n\n\n\n\n\n\n\n\n\n\nAI, Social Media, and Epistemic Agency: A Reply to Coeckelbergh\n\n\n\n\n\n\npublications\n\n\n\nEpistemology Review and Reply Collective 14 (9): 33–46. 2025\n\n\n\n\n\nSep 12, 2025\n\n\nMatthias Steup & Wen Xu\n\n\n\n\n\n\n\n\n\n\n\n\nPlato on Arithmetic.\n\n\n\n\n\n\npresentation\n\n\n\nThe Society for Ancient Greek Philosophy Annual Meeting, Christopher Newport University\n\n\n\n\n\nNov 17, 2019\n\n\nWen Xu\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Updated - Oldest\n      \n      \n        Updated - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nOn Bullshit and Bullshitting: The Case of Large Language Models.\n\n\n\nUnder Review\n\n\n\nR&R at journal X\n\n\n\n\n\nMay 22, 2026\n\n\nWen Xu\n\n\n\n\n\n\n\n\n\n\n\n\nOn Bullshit and Bullshitting: The Case of Large Language Models.\n\n\n\npresentation\n\n\n\nCenter for Values and Social Policy, Univeristy of Colorado Boulder\n\n\n\n\n\nMar 13, 2026\n\n\nWen Xu\n\n\n\n\n\n\n\n\n\n\n\n\nAI, Social Media, and Epistemic Agency: A Reply to Coeckelbergh\n\n\n\npublications\n\n\n\nEpistemology Review and Reply Collective 14 (9): 33–46. 2025\n\n\n\n\n\nSep 12, 2025\n\n\nMatthias Steup & Wen Xu\n\n\n\n\n\n\n\n\n\n\n\n\nPlato on Arithmetic.\n\n\n\npresentation\n\n\n\nThe Society for Ancient Greek Philosophy Annual Meeting, Christopher Newport University\n\n\n\n\n\nNov 17, 2019\n\n\nWen Xu\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
@@ -84,18 +84,11 @@
     "text": "Class 3\n\n\n\n\n\nSpring 2025,   Spring 2024\nClass 3 introduction."
   },
   {
-    "objectID": "posts/underreview-title/index.html#abstract",
-    "href": "posts/underreview-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
-    "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
-  },
-  {
-    "objectID": "posts/underreview-title/index.html#links",
-    "href": "posts/underreview-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "objectID": "posts/underreview-title/bullshit.html#links",
+    "href": "posts/underreview-title/bullshit.html#links",
+    "title": "On Bullshit and Bullshitting: The Case of Large Language Models.",
     "section": "Links",
-    "text": "Links\nPublished paper"
+    "text": "Links"
   },
   {
     "objectID": "index.html",
