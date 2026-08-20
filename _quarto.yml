@@ -10,13 +10,14 @@ author-meta: "Wen Xu"
 
 website:
   title: "Wen Xu"
+  subtitle: "Phd Student"
   image: "files/images/Nico.png"
   description: "Wen Xu — Philosophy, AI, and Epistemology"
  
   navbar:
     background: "#687F78" # You can change the background color here, "#5B7180" blue, "#687F78" green,
 
-    Right:   # You can comment out all navigation items here if you just like to keep the index page only
+    right:   # You can comment out all navigation items here if you just like to keep the index page only
       - text: About
         href: index.qmd
       # - text: About
