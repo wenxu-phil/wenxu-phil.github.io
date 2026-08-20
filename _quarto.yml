@@ -104,9 +104,7 @@ bibliography: references.bib  # Add references.bib to the root folder to enable 
 
 format:
   html:
-    theme: 
-      - cosmo
-      - custom.scss
+    theme: cosmo
     css: styles.css
     toc: true
     footnotes-hover: true
