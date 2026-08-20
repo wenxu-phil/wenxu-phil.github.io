@@ -18,3 +18,15 @@ span.__dimensions_badge_embed__, div.altmetric-embed {
 .thumbnail {
   display: none;
 }
+
+.listing-item .g-col-2,
+.metadata {
+  flex: 0 0 12% !important;
+  max-width: 12% !important;
+}
+
+.listing-item .g-col-10,
+.description {
+  flex: 0 0 88% !important;
+  max-width: 88% !important;
+}
