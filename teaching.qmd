@@ -80,8 +80,6 @@ Class introduction.
 :::
 :::
 
-### Teaching Assistant
-
 ##  University of Colorado Boulder
 
 ### Instructor of Record
