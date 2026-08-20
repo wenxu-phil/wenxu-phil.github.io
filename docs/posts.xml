@@ -17,9 +17,57 @@
 <width>144</width>
 </image>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Fri, 22 May 2026 06:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 06:00:00 GMT</lastBuildDate>
 <item>
-  <title>On Bullshit and Bullshitting: The Case of Large Language Models.</title>
+  <title>Whose Testimony Is It? The Case of LLMs</title>
+  <dc:creator>Wen Xu</dc:creator>
+  <link>https://wenxu-phil.github.io/posts/wip-title/grouptestimony.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="abstract" class="level2">
+
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+
+
+</section>
+
+ ]]></description>
+  <category>Works in Progress</category>
+  <guid>https://wenxu-phil.github.io/posts/wip-title/grouptestimony.html</guid>
+  <pubDate>Thu, 20 Aug 2026 06:00:00 GMT</pubDate>
+  <media:content url="https://wenxu-phil.github.io/files/images/placeholder3.JPG" medium="image"/>
+</item>
+<item>
+  <title>Testimony without Consciousness</title>
+  <dc:creator>Wen Xu</dc:creator>
+  <link>https://wenxu-phil.github.io/posts/wip-title/tconsciousness.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="abstract" class="level2">
+
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+
+
+</section>
+
+ ]]></description>
+  <category>Works in Progress</category>
+  <guid>https://wenxu-phil.github.io/posts/wip-title/tconsciousness.html</guid>
+  <pubDate>Thu, 20 Aug 2026 06:00:00 GMT</pubDate>
+  <media:content url="https://wenxu-phil.github.io/files/images/placeholder3.JPG" medium="image"/>
+</item>
+<item>
+  <title>On Bullshit and Bullshitting: The Case of Large Language Models</title>
   <dc:creator>Wen Xu</dc:creator>
   <link>https://wenxu-phil.github.io/posts/underreview-title/bullshit.html</link>
   <description><![CDATA[ 
@@ -40,10 +88,9 @@
   <category>Under Review</category>
   <guid>https://wenxu-phil.github.io/posts/underreview-title/bullshit.html</guid>
   <pubDate>Fri, 22 May 2026 06:00:00 GMT</pubDate>
-  <media:content url="https://wenxu-phil.github.io/files/images/placeholder3.JPG" medium="image"/>
 </item>
 <item>
-  <title>On Bullshit and Bullshitting: The Case of Large Language Models.</title>
+  <title>On Bullshit and Bullshitting: The LLM Case</title>
   <dc:creator>Wen Xu</dc:creator>
   <link>https://wenxu-phil.github.io/posts/event-title/bullshitcentertalk.html</link>
   <description><![CDATA[ 
@@ -51,25 +98,16 @@
 
 
 
-<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://wenxu-phil.github.io/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
+<!--
+[![](/files/images/placeholder2.JPG){width="90%"}](https://drganghe.github.io/quarto-academic-website-template/)
 -->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
 
  ]]></description>
-  <category>Presentation</category>
+  <category>Presentations</category>
   <guid>https://wenxu-phil.github.io/posts/event-title/bullshitcentertalk.html</guid>
   <pubDate>Fri, 13 Mar 2026 06:00:00 GMT</pubDate>
-  <media:content url="https://wenxu-phil.github.io/files/images/placeholder2.JPG" medium="image"/>
 </item>
 <item>
   <title>AI, Social Media, and Epistemic Agency: A Reply to Coeckelbergh</title>
@@ -103,7 +141,7 @@ https://quarto.org/docs/authoring/includes.html
   <media:content url="https://wenxu-phil.github.io/files/images/placeholder3.JPG" medium="image"/>
 </item>
 <item>
-  <title>Plato on Arithmetic.</title>
+  <title>Plato on Arithmetic</title>
   <dc:creator>Wen Xu</dc:creator>
   <link>https://wenxu-phil.github.io/posts/event-title/platotalk.html</link>
   <description><![CDATA[ 
@@ -111,25 +149,16 @@ https://quarto.org/docs/authoring/includes.html
 
 
 
-<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://wenxu-phil.github.io/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
+<!--
+[![](/files/images/placeholder2.JPG){width="90%"}](https://drganghe.github.io/quarto-academic-website-template/)
 -->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
 
  ]]></description>
-  <category>Presentation</category>
+  <category>Presentations</category>
   <guid>https://wenxu-phil.github.io/posts/event-title/platotalk.html</guid>
   <pubDate>Sun, 17 Nov 2019 07:00:00 GMT</pubDate>
-  <media:content url="https://wenxu-phil.github.io/files/images/placeholder2.JPG" medium="image"/>
 </item>
 </channel>
 </rss>

@@ -3,3 +3,30 @@ span.__dimensions_badge_embed__, div.altmetric-embed {
   display: inline-flex;
   vertical-align: middle;
 }
+
+/* Research page */
+.thumbnail {
+  display: none;
+}
+
+.listing-item .g-col-2,
+.metadata {
+  flex: 0 0 25% !important;
+  max-width: 25% !important;
+}
+
+.listing-item .g-col-10,
+.description {
+  flex: 0 0 75% !important;
+  max-width: 75% !important;
+}
+
+.listing-title {
+  font-size: 1.2rem !important;
+  font-weight: 500 !important;
+}
+
+.listing-description {
+  font-size: 0.9rem !important;
+  font-weight: 400 !important;
+}

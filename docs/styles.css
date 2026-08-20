@@ -91,4 +91,73 @@ img.about-image {
   box-shadow: 0 1px 3px rgba(0,0,0,0.06);
 }
 
+/* Teaching page */
+
+/*
+.course-item {
+  padding: 0.9rem 0;
+  border-bottom: 1px dashed #ccc;
+}
+*/
+
+.course-item {
+  padding: 0.9rem 0;
+  position: relative;
+}
+
+.course-item:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 80%;
+  border-bottom: 1px dashed #ccc;
+}
+
+.course-item:last-child {
+  border-bottom: none;
+}
+
+.course-title {
+  font-size: 1.05rem;
+  font-weight: 400;
+  margin-bottom: 0.3rem;
+}
+
+.course-semesters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  margin-bottom: 0.3rem;
+}
+
+/*
+.semester-chip {
+  display: inline-block;
+  padding: 0.12rem 0.55rem;
+  font-size: 0.78rem;
+  border-radius: 999px;
+  background-color: #f1f3f5;
+  border: 1px solid #ced4da;
+  color: #495057;
+}
+*/
+
+.semester-chip {
+  display: inline-block;
+  padding: 0.12rem 0.55rem;
+  font-size: 0.78rem;
+  border-radius: 999px;
+  /*background-color: #687F78;
+  border: 1px solid #687F78;
+  color: #FFFFFF;*/
+  background-color: #eef2f0;
+  color: #687F78;
+  border: 1px solid #cdd8d4;
+}
+
+.course-note {
+  font-size: 0.9rem;
+  color: #555;
+}
 
