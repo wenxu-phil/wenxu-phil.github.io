@@ -4,21 +4,36 @@ description-meta: "Reach out to me with questions and comments"
 title-block-banner: false
 ---
 
-<center>
+---
+title: "Contact"
+description-meta: "Reach out to me with questions and comments"
+title-block-banner: false
+---
 
-**Wen Xu**
+::: {.contact-card}
 
-Department of Philosophy
-
-#College
-
+### Wen Xu
+Department of Philosophy<br>
 University of Colorado Boulder
 
-#Address: 
+<div class="contact-row">
+  <i class="bi bi-envelope"></i>
+  <span id="email-text">wexu1930@colorado.edu</span>
+  <button onclick="copyEmail()" class="copy-btn" id="copy-btn">Copy</button>
+</div>
 
-#Phone: 
+<div class="contact-row">
+  <i class="bi bi-geo-alt"></i>
+  <span>[Room ___, Humanities Building, Boulder, CO]</span>
+</div>
 
-E-mail: wexu1930@colorado.edu
+:::
 
-
-</center>
+<script>
+function copyEmail() {
+  navigator.clipboard.writeText("wexu1930@colorado.edu");
+  const btn = document.getElementById("copy-btn");
+  btn.textContent = "Copied!";
+  setTimeout(() => { btn.textContent = "Copy"; }, 1500);
+}
+</script>
