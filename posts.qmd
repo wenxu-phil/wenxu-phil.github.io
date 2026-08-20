@@ -10,7 +10,6 @@ listing:
   sort-ui: true
   filter-ui: true
   feed: true
-  image-placeholder: false
   field-display-names:
     date: "Updated"
   contents: 
