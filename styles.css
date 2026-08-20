@@ -1,1 +1,9 @@
 /* css styles */
+.profile-subtitle {
+  font-size: 1.05rem;
+  font-weight: 400;
+  color: #6b7280;       /* muted gray, adjust to taste */
+  line-height: 1.4;
+  margin-top: -0.4rem;  /* pulls it closer to the name heading */
+  margin-bottom: 1rem;
+}
