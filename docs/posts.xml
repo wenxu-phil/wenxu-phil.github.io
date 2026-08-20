@@ -20,6 +20,7 @@
 <lastBuildDate>Fri, 13 Mar 2026 06:00:00 GMT</lastBuildDate>
 <item>
   <title>On Bullshit and Bullshitting: The Case of Large Language Models.</title>
+  <dc:creator>Wen Xu</dc:creator>
   <link>https://wenxu-phil.github.io/posts/event-title/bullshitcentertalk.html</link>
   <description><![CDATA[ 
 
@@ -78,16 +79,8 @@ https://quarto.org/docs/authoring/includes.html
   <media:content url="https://wenxu-phil.github.io/files/images/placeholder3.JPG" medium="image"/>
 </item>
 <item>
-  <title>Quarto Academic Website Examples and Tips</title>
-  <link>https://wenxu-phil.github.io/</link>
-  <description>Examples and tips for Quarto Academic Website</description>
-  <category>news</category>
-  <guid>https://wenxu-phil.github.io/</guid>
-  <pubDate>Tue, 15 Oct 2024 06:00:00 GMT</pubDate>
-  <media:content url="https://wenxu-phil.github.io/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
   <title>Plato on Arithmetic.</title>
+  <dc:creator>Wen Xu</dc:creator>
   <link>https://wenxu-phil.github.io/posts/event-title/platotalk.html</link>
   <description><![CDATA[ 
 
@@ -119,7 +112,7 @@ https://quarto.org/docs/authoring/includes.html
   <dc:creator>Albert Einstein</dc:creator>
   <dc:creator>Boris Podolsky</dc:creator>
   <dc:creator>Nathan Rosen</dc:creator>
-  <link>https://wenxu-phil.github.io/posts/paper-title/</link>
+  <link>https://wenxu-phil.github.io/posts/underreview-title/</link>
   <description><![CDATA[ 
 
 
@@ -172,9 +165,9 @@ Quantum-Mechanical Description of Physical Reality Be Considered
 Complete?”</span> <em>Physical Review</em> 47 (7938): 777–80. <a href="https://doi.org/10.1103/PhysRev.47.777">https://doi.org/10.1103/PhysRev.47.777</a>.
 </div></div></section></div> ]]></description>
   <category>paper</category>
-  <guid>https://wenxu-phil.github.io/posts/paper-title/</guid>
+  <guid>https://wenxu-phil.github.io/posts/underreview-title/</guid>
   <pubDate>Wed, 15 May 1935 07:00:00 GMT</pubDate>
-  <media:content url="https://wenxu-phil.github.io/posts/paper-title/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://wenxu-phil.github.io/posts/underreview-title/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
