@@ -1,6 +1,6 @@
 ---
 title: "On Bullshit and Bullshitting: The Case of Large Language Models."
-description: "Center for Values and Social Policy, Univeristy of Colorado Boulder"
+description: "*Center for Values and Social Policy*, Univeristy of Colorado Boulder"
 author: "Wen Xu"
 date: "2026-3-13"
 categories: [Presentation]
