@@ -44,7 +44,7 @@ website:
         href: files/nsf-biosketch.pdf
         target: _blank
       - text: Contact
-        href: publications.qmd
+        href: contact.qmd
       # - text: Presentation
       #   href: posts.qmd#category=presentation
         # menu:        
