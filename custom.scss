@@ -1,24 +1,4 @@
-/*-- scss:defaults --*/
-$font-size-root: 15px;  // default is usually 16px or larger depending on theme
-$font-family-sans-serif: -apple-system, "Helvetica Neue", Arial, sans-serif;
-
-/*-- scss:rules --*/
-/*-- scss:defaults --*/
-@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap');
-
-$font-family-serif: "Source Serif 4", Georgia, serif;
-$font-family-sans-serif: "Inter", -apple-system, sans-serif;
-
-$font-family-base: $font-family-serif;   // body text
-$headings-font-family: $font-family-sans-serif;  // headers
-
 /*-- scss:rules --*/
 body {
-  font-family: $font-family-serif;
-  line-height: 1.65;  // a bit more breathing room, less cramped/corporate
+  font-size: 0.95rem;  // try 0.9rem if still too big
 }
-
-h1 { font-size: 1.8rem; }
-h2 { font-size: 1.4rem; }
-h3 { font-size: 1.2rem; }
-h4 { font-size: 1.05rem; }
