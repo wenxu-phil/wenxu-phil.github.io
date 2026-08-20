@@ -4,7 +4,7 @@ title: "Teaching"
 title-block-banner: false
 ---
 
-## ----University of Denver
+## ------University of Denver
 
 ### Instructor of Record
 
