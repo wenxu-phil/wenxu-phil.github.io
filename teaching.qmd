@@ -8,7 +8,7 @@ title-block-banner: false
 
 ### Instructor of Record
 
-#### Discovering Philosophy
+#### ---Discovering Philosophy
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder1.jpg)
@@ -19,7 +19,7 @@ title-block-banner: false
 :::
 :::
 
-#### Classical Greek Philosophy
+#### ---Classical Greek Philosophy
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder2.JPG)
@@ -30,7 +30,7 @@ title-block-banner: false
 :::
 :::
 
-#### Philosophy of Mind
+#### ---Philosophy of Mind
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder2.JPG)
