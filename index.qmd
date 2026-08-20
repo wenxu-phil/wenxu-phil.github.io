@@ -4,7 +4,8 @@ title: "Wen Xu"
 subtitle: |
   <span class="subtitle-role">PhD Student</span><br>
   <span class="subtitle-inst">University of Colorado Boulder</span><br>
-  <span class="subtitle-dept">Philosophy & Cognitive Science</span>
+  <span class="subtitle-dept">Philosophy & Cognitive Science</span><br>
+  <span class="tag">Philosophy of AI</span> <span class="tag">Epistemology</span>
 description-meta: "Wen Xu — Philosophy, AI, and Epistemology"
 image: "files/images/Nico.png"
 page-navigation: false
