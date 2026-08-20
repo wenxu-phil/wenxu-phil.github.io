@@ -78,6 +78,43 @@ I have taught philosophy at the University of Denver and the University of Color
 
 -->
 
+## University of Denver
+
+### Instructor of Record
+
+::: {.course-item .grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder1.jpg)
+:::
+::: {.g-col-12 .g-col-md-10}
+<div class="course-title">Discovering Philosophy</div>
+<div class="course-semesters"><span class="semester-chip">Winter 2025</span></div>
+:::
+:::
+
+::: {.course-item .grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+<div class="course-title">Classical Greek Philosophy</div>
+<div class="course-semesters"><span class="semester-chip">Winter 2025</span></div>
+:::
+:::
+
+::: {.course-item .grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+<div class="course-title">Nature and Limits of Human Knowledge</div>
+<div class="course-semesters">
+  <span class="semester-chip">Fall 2025</span>
+  <span class="semester-chip">Spring 2025</span>
+</div>
+:::
+:::
+
 ##  University of Colorado Boulder
 
 ### Instructor of Record
