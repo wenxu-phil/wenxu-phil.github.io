@@ -131,9 +131,12 @@ img.about-image {
   padding: 0.12rem 0.55rem;
   font-size: 0.78rem;
   border-radius: 999px;
-  background-color: #687F78;
+  /*background-color: #687F78;
   border: 1px solid #687F78;
-  color: #FFFFFF;
+  color: #FFFFFF;*/
+  background-color: #eef2f0;
+  color: #687F78;
+  border: 1px solid #cdd8d4;
 }
 
 .course-note {
