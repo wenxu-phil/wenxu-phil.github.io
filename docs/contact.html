@@ -47,7 +47,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4b345fffde8b5252eceafe7da84c6583.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-64db0988c4f6fe0bf9c0494277129500.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -98,6 +98,7 @@ https://badge.dimensions.ai/
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Contact – Wen Xu">
+<meta property="og:description" content="Wen Xu — Philosophy, AI, and Epistemology">
 <meta property="og:image" content="https://wenxu-phil.github.io/files/images/Nico.png">
 <meta property="og:site_name" content="Wen Xu">
 <meta property="og:image:height" content="737">
@@ -126,7 +127,7 @@ https://badge.dimensions.ai/
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posts.html#category=paper"> 
+    <a class="nav-link" href="./posts.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
@@ -138,7 +139,7 @@ https://badge.dimensions.ai/
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link active" href="./contact.html" aria-current="page"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -152,40 +153,45 @@ https://badge.dimensions.ai/
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#wen-xu" id="toc-wen-xu" class="nav-link active" data-scroll-target="#wen-xu">Wen Xu</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"><h1 class="title display-7">Contact</h1></header>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Contact</h1>
-</div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
+<header id="title-block-header">
 
 
 </header>
 
 
-<center>
-<p><strong>Wen Xu</strong></p>
-<p>Department of Philosophy</p>
-<p>#College</p>
-<p>University of Colorado Boulder</p>
-<p>#Address:</p>
-<p>#Phone:</p>
-<p>E-mail: wexu1930@colorado.edu</p>
-</center>
+<section id="wen-xu" class="level3 contact-card">
+<h3 class="anchored" data-anchor-id="wen-xu">Wen Xu</h3>
+<p>Department of Philosophy<br> University of Colorado Boulder</p>
+<div class="contact-row">
+<p><i class="bi bi-envelope"></i> <span id="email-text">wexu1930@colorado.edu</span> <button onclick="copyEmail()" class="copy-btn" id="copy-btn">Copy</button></p>
+</div>
+<!--
+<div class="contact-row">
+  <i class="bi bi-geo-alt"></i>
+  <span>[Room ___, Humanities Building, Boulder, CO]</span>
+</div>
+-->
+</section>
+<script>
+function copyEmail() {
+  navigator.clipboard.writeText("wexu1930@colorado.edu");
+  const btn = document.getElementById("copy-btn");
+  btn.textContent = "Copied!";
+  setTimeout(() => { btn.textContent = "Copy"; }, 1500);
+}
+</script>
 
 
 

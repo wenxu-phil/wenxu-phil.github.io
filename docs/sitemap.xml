@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://wenxu-phil.github.io/posts.html</loc>
-    <lastmod>2026-08-19T21:52:04.260Z</lastmod>
+    <lastmod>2026-08-20T03:47:58.680Z</lastmod>
   </url>
   <url>
     <loc>https://wenxu-phil.github.io/publications.html</loc>
@@ -13,28 +13,32 @@
     <lastmod>2026-08-19T21:52:04.264Z</lastmod>
   </url>
   <url>
-    <loc>https://wenxu-phil.github.io/posts/news-title/index.html</loc>
+    <loc>https://wenxu-phil.github.io/posts/publications-title/index.html</loc>
     <lastmod>2026-08-19T21:52:04.261Z</lastmod>
   </url>
   <url>
-    <loc>https://wenxu-phil.github.io/posts/paper-title/index.html</loc>
-    <lastmod>2026-08-19T21:52:04.264Z</lastmod>
+    <loc>https://wenxu-phil.github.io/posts/event-title/bullshitcentertalk.html</loc>
+    <lastmod>2026-08-20T04:21:31.208Z</lastmod>
   </url>
   <url>
-    <loc>https://wenxu-phil.github.io/teaching.html</loc>
-    <lastmod>2026-08-19T21:52:04.266Z</lastmod>
+    <loc>https://wenxu-phil.github.io/contact.html</loc>
+    <lastmod>2026-08-20T03:31:41.371Z</lastmod>
   </url>
   <url>
     <loc>https://wenxu-phil.github.io/pub-listing.html</loc>
     <lastmod>2026-08-19T21:52:04.265Z</lastmod>
   </url>
   <url>
-    <loc>https://wenxu-phil.github.io/contact.html</loc>
-    <lastmod>2026-08-19T23:01:44.339Z</lastmod>
+    <loc>https://wenxu-phil.github.io/teaching.html</loc>
+    <lastmod>2026-08-19T21:52:04.266Z</lastmod>
   </url>
   <url>
-    <loc>https://wenxu-phil.github.io/posts/event-title/index.html</loc>
-    <lastmod>2026-08-19T21:52:04.261Z</lastmod>
+    <loc>https://wenxu-phil.github.io/posts/paper-title/index.html</loc>
+    <lastmod>2026-08-19T21:52:04.264Z</lastmod>
+  </url>
+  <url>
+    <loc>https://wenxu-phil.github.io/posts/event-title/platotalk.html</loc>
+    <lastmod>2026-08-20T04:22:48.502Z</lastmod>
   </url>
   <url>
     <loc>https://wenxu-phil.github.io/index.html</loc>

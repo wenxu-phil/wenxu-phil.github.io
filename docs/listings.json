@@ -2,8 +2,9 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/event-title/index.html",
-      "/posts/news-title/index.html",
+      "/posts/event-title/bullshitcentertalk.html",
+      "/posts/publications-title/index.html",
+      "/posts/event-title/platotalk.html",
       "/posts/paper-title/index.html"
     ]
   },
