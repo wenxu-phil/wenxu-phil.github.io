@@ -1,9 +1,9 @@
 ---
-title: "News item"
-description: "About new item"
-author: "News"
-date: "2024-06-24"
-categories: [news]
+title: "AI, Social Media, and Epistemic Agency: A Reply to Coeckelbergh"
+description: "Epistemology Review and Reply Collective 14 (9): 33–46. 2025"
+author: "Matthias Steup & Wen Xu"
+date: "2025-09-12"
+categories: [publications]
 image: "/files/images/placeholder3.JPG"
 #css: /custom.css
 #draft: true
@@ -11,8 +11,6 @@ image: "/files/images/placeholder3.JPG"
 
 
 ## Summary
-
-About the news
 
 <!--Include social share buttons-->
 
