@@ -1,0 +1,15 @@
+title: "Plato on Arithmetic."
+description: "The Society for Ancient Greek Philosophy Annual Meeting, Christopher Newport University"
+date: "2019-11-17"
+categories: [presentation]
+image: "/files/images/placeholder2.JPG"
+#css: /custom.css
+#draft: true
+---
+
+[![](/files/images/placeholder2.JPG){width="90%"}](https://drganghe.github.io/quarto-academic-website-template/)
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
