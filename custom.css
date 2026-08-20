@@ -3,3 +3,13 @@ span.__dimensions_badge_embed__, div.altmetric-embed {
   display: inline-flex;
   vertical-align: middle;
 }
+
+.quarto-listing-default .listing-item-img-placeholder,
+.quarto-listing-default .thumbnail-image,
+.quarto-listing-default img.thumbnail-image {
+  display: none;
+}
+
+.quarto-listing-default .listing-item-content {
+  width: 100%;
+}
