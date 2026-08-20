@@ -78,6 +78,7 @@ I have taught philosophy at the University of Denver and the University of Color
 
 ### Instructor of Record
 
+<!--
 #### Introduction to Philosophy
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
@@ -158,4 +159,78 @@ I have taught philosophy at the University of Denver and the University of Color
 
 :::
 :::
+-->
 
+::: {.course-item .grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder1.jpg)
+:::
+::: {.g-col-12 .g-col-md-10}
+<div class="course-title">Introduction to Philosophy</div>
+<div class="course-semesters"><span class="semester-chip">Spring 2023</span></div>
+<div class="course-note">Equivalent to <em>Discovering Philosophy</em> at DU.</div>
+:::
+:::
+
+::: {.course-item .grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+<div class="course-title">Introduction to Western Philosophy: Ancient</div>
+<div class="course-semesters"><span class="semester-chip">Fall 2023</span> <span class="semester-chip">Fall 2023</span></div>
+<div class="course-note">Equivalent to <em>Classical Greek Philosophy</em> at DU.</div>
+:::
+:::
+
+::: {.course-item .grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+<div class="course-title">History of Ancient Philosophy</div>
+<div class="course-semesters"><span class="semester-chip">Summer 2023</span></div>
+:::
+:::
+
+### Teaching Assistant
+
+::: {.course-item .grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+<div class="course-title">Introduction to Philosophy</div>
+<div class="course-semesters"><span class="semester-chip">Fall 2020</span></div>
+:::
+:::
+
+::: {.course-item .grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+<div class="course-title">Critical Thinking</div>
+<div class="course-semesters"><span class="semester-chip">Fall 2021</span> <span class="semester-chip">Spring 2021</span></div>
+:::
+:::
+
+::: {.course-item .grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+<div class="course-title">Symbolic Logic</div>
+<div class="course-semesters"><span class="semester-chip">Spring 2022</span></div>
+:::
+:::
+
+::: {.course-item .grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+<div class="course-title">History of Ancient Philosophy</div>
+<div class="course-semesters"><span class="semester-chip">Summer 2024</span> <span class="semester-chip">Summer 2020</span> <span class="semester-chip">Spring 2019</span></div>
+:::
+:::
