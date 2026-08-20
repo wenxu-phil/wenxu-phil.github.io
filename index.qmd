@@ -16,14 +16,14 @@ about:
   id: hero-heading
   template: trestles
   image-width: 70%
-  links:
-    - icon: file-earmark-pdf
-      text: CV
-      href: files/nsf-biosketch.pdf
-      target: _blank
-    - icon: envelope
-      text: E-mail
-      href: mailto:wexu1930@colorado.edu     
+  #links:
+   # - icon: file-earmark-pdf
+    #  text: CV
+     # href: files/nsf-biosketch.pdf
+      #target: _blank
+    #- icon: envelope
+     # text: E-mail
+      #href: mailto:wexu1930@colorado.edu     
 #    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
 #      href: https://orcid.org
 #      target: _blank
