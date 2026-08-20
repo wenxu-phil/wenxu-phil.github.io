@@ -94,6 +94,16 @@ https://badge.dimensions.ai/
 
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".quarto-title-meta-heading").forEach(el => {
+    if (el.textContent.trim().toLowerCase() === "published") {
+      el.textContent = "Updated";
+    }
+  });
+});
+</script>
+
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Wen Xu">
