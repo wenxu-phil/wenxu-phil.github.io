@@ -65,7 +65,8 @@ website:
   page-navigation: true
   
   page-footer: 
-    left: "[Wen Xu](https://wenxu-phil.github.io/) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    left: "[Wen Xu](https://wenxu-phil.github.io/) &copy; <script>document.write(new Date().toLocaleString('default', { month: 'long' }) + ' ' + new Date().getFullYear())</script>"
+    # left: "[Wen Xu](https://wenxu-phil.github.io/) &copy; <script>document.write(new Date().getFullYear())</script>" 
     center: "Website built with [Quarto](https://github.com/drganghe/quarto-academic-website-template)"
     # right:  
     #   - icon: github
