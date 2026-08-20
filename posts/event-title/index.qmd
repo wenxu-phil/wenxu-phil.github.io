@@ -1,9 +1,9 @@
 ---
-title: "Event item"
-description: "About Event item."
+title: "Presentation item"
+description: "About presentation item."
 author: "Event"
-date: "2024-09-03"
-categories: [event, presentation]
+date: "2019-11"
+categories: [presentation]
 image: "/files/images/placeholder2.JPG"
 #css: /custom.css
 #draft: true
