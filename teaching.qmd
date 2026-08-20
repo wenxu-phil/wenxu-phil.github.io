@@ -1,67 +1,79 @@
 ---
 title: "Teaching"
-subtitle: "I teach."
+#subtitle: "I teach."
 title-block-banner: false
 ---
 
+## Christopher Newport University
 
-## Class 1
+### Instructor
 
+#### Introduction to Philosophy
 ::: {.grid}
-
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder1.jpg)
-
 :::
-
 ::: {.g-col-12 .g-col-md-10}
+[Fall 2025](https://www.google.com), &nbsp; [Spring 2025](https://www.google.com)
 
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
-
-Class 1 introduction.
-
+Course introduction for Intro to Philosophy at CNU.
+:::
 :::
 
-:::
-
-
-## Class 2
-
+#### Class 2 at CNU
 ::: {.grid}
-
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder2.JPG)
-
 :::
-
 ::: {.g-col-12 .g-col-md-10}
-
 [Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
 
 Class 2 introduction.
-
+:::
 :::
 
-:::
+### Teaching Assistant
 
-
-## Class 3
-
+#### Class 3 at CNU
 ::: {.grid}
-
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder3.JPG)
-
 :::
-
 ::: {.g-col-12 .g-col-md-10}
-
 [Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
 
-Class 3 introduction. 
-
+Class 3 introduction.
+:::
 :::
 
+## Duquesne University
+
+### Instructor
+
+#### Discovering Philosophy
+::: {.grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder1.jpg)
+:::
+::: {.g-col-12 .g-col-md-10}
+[Fall 2024](https://www.google.com)
+
+Course introduction for Discovering Philosophy at DU (equivalent to Intro to Philosophy at CNU).
+:::
+:::
+
+### Teaching Assistant
+
+#### Another Class at DU
+::: {.grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+[Fall 2023](https://www.google.com)
+
+Course introduction.
+:::
 :::
 
 
