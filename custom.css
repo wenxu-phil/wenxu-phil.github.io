@@ -21,8 +21,7 @@ span.__dimensions_badge_embed__, div.altmetric-embed {
   max-width: 75% !important;
 }
 
-.listing-item .g-col-10,
-.title {
-  font-size: 0.5rem !important;
-  font-weight: 400;
+.listing-title {
+  font-size: 1rem !important;
+  font-weight: 400 !important;
 }
