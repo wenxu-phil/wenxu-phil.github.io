@@ -99,7 +99,7 @@ https://badge.dimensions.ai/
 <link rel="stylesheet" href="styles.css">
 <link rel="stylesheet" href="custom.css">
 <meta property="og:title" content="Publications – Wen Xu">
-<meta property="og:description" content="Wen Xu — Philosophy, AI, and Social Epistemology">
+<meta property="og:description" content="Wen Xu — Philosophy, AI, and Epistemology">
 <meta property="og:image" content="https://wenxu-phil.github.io/files/images/Nico.png">
 <meta property="og:site_name" content="Wen Xu">
 <meta property="og:image:height" content="737">
@@ -122,52 +122,27 @@ https://badge.dimensions.ai/
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">About</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
-        <li>
-    <a class="dropdown-item" href="./posts.html#category=news">
- <span class="dropdown-text">News</span></a>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">About</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./files/nsf-biosketch.pdf">
- <span class="dropdown-text">CV</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./posts.html#category=paper"> 
+<span class="menu-text">Research</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./contact.html">
- <span class="dropdown-text">Contact</span></a>
-  </li>  
-    </ul>
-  </li>
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Research</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
-        <li>
-    <a class="dropdown-item" href="./posts.html#category=paper">
- <span class="dropdown-text">Selected Papers</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item">
     <a class="nav-link" href="./teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-outreach" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Outreach</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-outreach">    
-        <li>
-    <a class="dropdown-item" href="./posts.html#category=presentation">
- <span class="dropdown-text">Presentations</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./files/nsf-biosketch.pdf" target="_blank"> 
+<span class="menu-text">CV</span></a>
   </li>  
-    </ul>
-  </li>
+  <li class="nav-item">
+    <a class="nav-link active" href="./publications.html" aria-current="page"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -669,14 +644,14 @@ https://quarto.org/docs/authoring/includes.html
   <div class="nav-footer">
     <div class="nav-footer-left">
 <a href="https://wenxu-phil.github.io/">Wen Xu</a> ©
-<script>document.write(new Date().getFullYear())</script>
+<script>document.write(new Date().toLocaleString('default', { month: 'long' }) + ' ' + new Date().getFullYear())</script>
 </div>   
     <div class="nav-footer-center">
-<p>Website built with <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto</a></p>
-</div>
-    <div class="nav-footer-right">
       &nbsp;
     </div>
+    <div class="nav-footer-right">
+<p>Website built with <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto</a></p>
+</div>
   </div>
 </footer>
 

@@ -1,1 +1,45 @@
 /* css styles */
+#title-block-header .subtitle {
+  line-height: 1.6;
+}
+
+.subtitle-role {
+  font-size: 1.15rem;
+  font-weight: 500;
+  color: #374151;
+}
+
+.subtitle-inst {
+  font-size: 1rem;
+  font-weight: 400;
+  color: #6b7280;
+}
+
+.subtitle-dept {
+  font-size: 1rem;
+  font-weight: 400;
+  font-style: italic;
+  color: #9ca3af;
+}
+
+.tag {
+  display: inline-block;
+  background-color: #eef2f0;
+  color: #687F78;
+  border: 1px solid #cdd8d4;
+  border-radius: 999px;
+  padding: 0.2rem 0.75rem;
+  margin: 1rem 0.3rem 0 0;   /* top margin creates gap from dept line above */
+  font-size: 0.8rem;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+img.about-image {
+  object-fit: cover;
+  object-position: 55% top;
+  aspect-ratio: 1 / 1;
+  border-radius: 50% !important;
+  width: 70%;
+  height: auto;
+}

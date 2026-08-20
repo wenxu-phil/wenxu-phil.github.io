@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Wen Xu">
-<meta name="description" content="Wen Xu — Philosophy, AI, and Social Epistemology">
+<meta name="description" content="Wen Xu — Philosophy, AI, and Epistemology">
 
 <title>Wen Xu</title>
 <style>
@@ -38,8 +38,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -75,36 +73,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-recent-posts .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      page: 3,
-    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-recent-posts'] = new List('listing-recent-posts', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 
 <!-- 
 Load Academicons v1: https://jpswalsh.github.io/academicons/
@@ -126,39 +94,10 @@ https://badge.dimensions.ai/
 
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Wen Xu">
-<meta property="og:description" content="Wen Xu — Philosophy, AI, and Social Epistemology">
+<meta property="og:description" content="PhD Student University of Colorado Boulder Philosophy &amp; Cognitive Science Philosophy of AI Epistemology">
 <meta property="og:image" content="https://wenxu-phil.github.io/files/images/Nico.png">
 <meta property="og:site_name" content="Wen Xu">
 <meta property="og:image:height" content="737">
@@ -181,52 +120,27 @@ window.Quarto = {
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">About</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
-        <li>
-    <a class="dropdown-item" href="./posts.html#category=news">
- <span class="dropdown-text">News</span></a>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">About</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./files/nsf-biosketch.pdf">
- <span class="dropdown-text">CV</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./posts.html#category=paper"> 
+<span class="menu-text">Research</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./contact.html">
- <span class="dropdown-text">Contact</span></a>
-  </li>  
-    </ul>
-  </li>
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Research</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
-        <li>
-    <a class="dropdown-item" href="./posts.html#category=paper">
- <span class="dropdown-text">Selected Papers</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item">
     <a class="nav-link" href="./teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-outreach" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Outreach</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-outreach">    
-        <li>
-    <a class="dropdown-item" href="./posts.html#category=presentation">
- <span class="dropdown-text">Presentations</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./files/nsf-biosketch.pdf" target="_blank"> 
+<span class="menu-text">CV</span></a>
   </li>  
-    </ul>
-  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./publications.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -252,108 +166,36 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Wen Xu</h1>
+<p class="subtitle lead"><span class="subtitle-role">PhD Student</span><br> <span class="subtitle-inst">University of Colorado Boulder</span><br> <span class="subtitle-dept">Philosophy &amp; Cognitive Science</span><br> <span class="tag">Philosophy of AI</span> <span class="tag">Epistemology</span></p>
 </div>
 <div class="quarto-title-meta column-page">
   </div>
 </header>
-    <div class="about-links">
-  <a href="mailto:wexu1930@colorado.edu" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">E-mail</span>
-  </a>
-</div>
   </div>
   <div class="about-contents"><div id="hero-heading">
-<p>I’m a PhD Candidate in Philosophy and Cognitive Science at the University of Colorado Boulder.</p>
-<p>My research focuses on the intersection of philosophy of AI and epistemology.</p>
+<p>I’m a PhD Candidate in Philosophy and Cognitive Science at the University of Colorado Boulder. My research lies at the intersection of philosophy of AI and epistemology. My dissertation develops an epistemology of LLM-mediated communication; it asks what kind of epistemic source large language models are and when, if ever, their outputs confer justification for belief. Building on this framework, my broader research agenda seeks to bring philosophical perspectives and theoretical frameworks to some central questions in AI research and policy: what trustworthy AI should mean, how to give a precise and normative account of AI hallucination, and how much information users should disclose to AI systems and under what conditions.</p>
 <section id="experience" class="level2">
 <h2 data-anchor-id="experience">Experience</h2>
 <ul>
-<li>Adjunct Faculty, Univerisity</li>
+<li>Adjunct Faculty, Philosophy, University of Denver (2025-)</li>
+<li>Visiting Teaching Assistant Professor, Philosophy, University of Denver (2024-25)</li>
 </ul>
 </section>
 <section id="education" class="level2">
 <h2 data-anchor-id="education">Education</h2>
 <ul>
-<li>PhD, Univerisity (Expected May 2027)</li>
-<li>Master, Univerisity</li>
-<li>Bachelor, Univerisity</li>
+<li>(Expected May 2027) PhD in Philosophy and Cognitive Science, University of Colorado Boulder</li>
+<li>MS in Computer Science, University of Colorado Boulder</li>
+<li>MA in Ancient Philosophy, University of Western Ontario</li>
+<li>BA in Philosophy and Mathematics, Emory University</li>
 </ul>
 </section>
 </div></div>
 </div>
 
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-<section id="recent-posts" class="level2">
-<h2 data-anchor-id="recent-posts">Recent Posts</h2>
-<p>Check out the latest &nbsp;<a href="./posts.html#category=paper">Papers</a>&nbsp;, &nbsp;<a href="./posts.html#category=news">News</a>&nbsp;, &nbsp;<a href="./posts.html#category=event">Events</a>&nbsp;, and &nbsp;<a href="./posts.html">More »</a></p>
-<div id="listing-recent-posts" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="bmV3cw==" data-listing-date-sort="1728972000000">
-<a href="https://drganghe.github.io/quarto-academic-site-examples.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./files/images/placeholder1.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Quarto Academic Website Examples and Tips
-</h5>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Oct 15, 2024
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="ZXZlbnQlMkNwcmVzZW50YXRpb24=" data-listing-date-sort="1725343200000" data-listing-file-modified-sort="1787176324261" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
-<a href="./posts/event-title/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./files/images/placeholder2.JPG" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Event item
-</h5>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Sep 3, 2024
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="bmV3cw==" data-listing-date-sort="1719208800000" data-listing-file-modified-sort="1787176324261" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
-<a href="./posts/news-title/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./files/images/placeholder3.JPG" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-News item
-</h5>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Jun 24, 2024
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-<p align="right">
-<a href="./posts.html">All Posts »</a>
-</p>
 
 
 
-
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -759,14 +601,14 @@ Jun 24, 2024
   <div class="nav-footer">
     <div class="nav-footer-left">
 <a href="https://wenxu-phil.github.io/">Wen Xu</a> ©
-<script>document.write(new Date().getFullYear())</script>
+<script>document.write(new Date().toLocaleString('default', { month: 'long' }) + ' ' + new Date().getFullYear())</script>
 </div>   
     <div class="nav-footer-center">
-<p>Website built with <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto</a></p>
-</div>
-    <div class="nav-footer-right">
       &nbsp;
     </div>
+    <div class="nav-footer-right">
+<p>Website built with <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto</a></p>
+</div>
   </div>
 </footer>
 
