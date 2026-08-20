@@ -1,6 +1,7 @@
 ---
 title: "Plato on Arithmetic."
 description: "The Society for Ancient Greek Philosophy Annual Meeting, Christopher Newport University"
+author: "Wen Xu"
 date: "2019-11-17"
 categories: [presentation]
 image: "/files/images/placeholder2.JPG"
