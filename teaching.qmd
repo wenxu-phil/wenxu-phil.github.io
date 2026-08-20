@@ -4,11 +4,11 @@ title: "Teaching"
 title-block-banner: false
 ---
 
-## University of Denver
+### University of Denver
 
-### Instructor of Record
+#### Instructor of Record
 
-#### Discovering Philosophy
+##### Discovering Philosophy
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder1.jpg)
@@ -20,7 +20,7 @@ Course introduction
 :::
 :::
 
-#### Classical Greek Philosophy
+##### Classical Greek Philosophy
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder2.JPG)
@@ -32,7 +32,7 @@ Class 2 introduction.
 :::
 :::
 
-#### Philosophy of Mind
+##### Philosophy of Mind
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder2.JPG)
@@ -44,7 +44,7 @@ Class introduction.
 :::
 :::
 
-#### Nature and Limits of Human Knowledge,
+##### Nature and Limits of Human Knowledge,
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder2.JPG)
@@ -56,7 +56,7 @@ Class introduction.
 :::
 :::
 
-#### Philosophy of Language
+##### Philosophy of Language
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder2.JPG)
@@ -68,7 +68,7 @@ Class introduction.
 :::
 :::
 
-#### Philosophy of AI
+##### Philosophy of AI
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder2.JPG)
@@ -80,11 +80,11 @@ Class introduction.
 :::
 :::
 
-##  University of Colorado Boulder
+###  University of Colorado Boulder
 
-### Instructor of Record
+#### Instructor of Record
 
-#### Introduction to Philosophy
+##### Introduction to Philosophy
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder1.jpg)
@@ -96,7 +96,7 @@ Course introduction (equivalent to Discovering Philosophy at DU).
 :::
 :::
 
-#### Introduction to Western Philosophy: Ancient
+##### Introduction to Western Philosophy: Ancient
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder2.JPG)
@@ -108,7 +108,7 @@ Class introduction (equivalent to Classical Greek Philosophy at DU).
 :::
 :::
 
-#### History of Ancient Philosophy
+##### History of Ancient Philosophy
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder2.JPG)
@@ -120,9 +120,9 @@ Class introduction (online, synchronous).
 :::
 :::
 
-### Teaching Assistant
+#### Teaching Assistant
 
-#### Introduction to Philosophy
+##### Introduction to Philosophy
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder2.JPG)
@@ -134,7 +134,7 @@ Course introduction.
 :::
 :::
 
-#### Critical Thinking
+##### Critical Thinking
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder2.JPG)
@@ -146,7 +146,7 @@ Course introduction.
 :::
 :::
 
-#### Symbolic Logic
+##### Symbolic Logic
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder2.JPG)
@@ -158,7 +158,7 @@ Course introduction.
 :::
 :::
 
-#### History of Ancient Philosophy
+##### History of Ancient Philosophy
 ::: {.grid}
 ::: {.g-col-12 .g-col-md-2}
 ![](files/images/placeholder2.JPG)
