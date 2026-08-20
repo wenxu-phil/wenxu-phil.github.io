@@ -4,6 +4,7 @@ span.__dimensions_badge_embed__, div.altmetric-embed {
   vertical-align: middle;
 }
 
+/*
 .quarto-listing-default .listing-item-img-placeholder,
 .quarto-listing-default .thumbnail-image,
 .quarto-listing-default img.thumbnail-image {
@@ -12,4 +13,8 @@ span.__dimensions_badge_embed__, div.altmetric-embed {
 
 .quarto-listing-default .listing-item-content {
   width: 100%;
+}
+*/
+.thumbnail {
+  display: none;
 }
