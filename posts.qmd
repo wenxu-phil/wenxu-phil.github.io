@@ -1,7 +1,7 @@
 ---
-title: "What’s New & Updated"
-subtitle: "Posts about papers, events, news, and more"
-description-meta: "Posts about papers, events, news, and more"
+title: "Research"
+subtitle: "Papers & Presentations"
+description-meta: "Posts about papers, presentations, and more"
 listing: 
   sort: "date desc"
   type: default
