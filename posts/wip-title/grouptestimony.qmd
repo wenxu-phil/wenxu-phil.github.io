@@ -1,5 +1,5 @@
 ---
-title: "Whose Testimony Is It? The Case of LLMs."
+title: "Whose Testimony Is It? The Case of LLMs"
 description: "Manuscript"
 author: "Wen Xu"
 date: "2026-08-20"
