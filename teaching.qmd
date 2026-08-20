@@ -3,6 +3,7 @@ title: "Teaching"
 #subtitle: "I teach."
 title-block-banner: false
 ---
+I have taught philosophy at the University of Denver and the University of Colorado Boulder, as both an instructor of record and a teaching assistant. This page includes the courses I have taught, along with sample syllabi.
 
 ## University of Denver
 
