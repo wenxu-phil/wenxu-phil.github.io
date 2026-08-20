@@ -1,10 +1,9 @@
 ---
-title: "On Bullshit and Bullshitting: The Case of Large Language Models."
-description: "R&R at journal X"
+title: "On Bullshit and Bullshitting: The Case of Large Language Models"
+description: "Revise & Resubmit"
 author: "Wen Xu"
 date: "2026-05-22"
 categories: [Under Review]
-image: "/files/images/placeholder3.JPG"
 ---
 
 
