@@ -5,79 +5,7 @@ title-block-banner: false
 ---
 I have taught philosophy at the University of Denver and the University of Colorado Boulder, as both an instructor of record and a teaching assistant. This page includes the courses I have taught, along with sample syllabi.
 
-<!--
-## University of Denver
-
-### Instructor of Record
-
-#### ---Discovering Philosophy
-::: {.grid}
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
-:::
-::: {.g-col-12 .g-col-md-10}
-[Winter 2025]
-
-:::
-:::
-
-#### ---Classical Greek Philosophy
-::: {.grid}
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
-:::
-::: {.g-col-12 .g-col-md-10}
-[Winter 2025]
-
-:::
-:::
-
-#### ---Philosophy of Mind
-::: {.grid}
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
-:::
-::: {.g-col-12 .g-col-md-10}
-[Spring 2025]
-
-:::
-:::
-
-#### Nature and Limits of Human Knowledge
-::: {.grid}
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
-:::
-::: {.g-col-12 .g-col-md-10}
-[Fall 2025], &nbsp; [Spring 2025]
-
-:::
-:::
-
-#### Philosophy of Language
-::: {.grid}
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
-:::
-::: {.g-col-12 .g-col-md-10}
-[Winter 2026]
-
-:::
-:::
-
-#### Philosophy of AI
-::: {.grid}
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
-:::
-::: {.g-col-12 .g-col-md-10}
-[Fall 2026]
-
-:::
-:::
-
--->
-
+---
 ## University of Denver
 
 ### Instructor of Record
@@ -107,6 +35,16 @@ I have taught philosophy at the University of Denver and the University of Color
 ![](files/images/placeholder2.JPG)
 :::
 ::: {.g-col-12 .g-col-md-10}
+<div class="course-title">Philosophy of Mind</div>
+<div class="course-semesters"><span class="semester-chip">Spring 2025</span></div>
+:::
+:::
+
+::: {.course-item .grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Nature and Limits of Human Knowledge</div>
 <div class="course-semesters">
   <span class="semester-chip">Fall 2025</span>
@@ -114,6 +52,27 @@ I have taught philosophy at the University of Denver and the University of Color
 </div>
 :::
 :::
+
+::: {.course-item .grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+<div class="course-title">Philosophy of Language</div>
+<div class="course-semesters"><span class="semester-chip">Winter 2026</span></div>
+:::
+:::
+
+::: {.course-item .grid}
+::: {.g-col-12 .g-col-md-2}
+![](files/images/placeholder2.JPG)
+:::
+::: {.g-col-12 .g-col-md-10}
+<div class="course-title">Philosophy of AI</div>
+<div class="course-semesters"><span class="semester-chip">Fall 2026</span></div>
+:::
+:::
+---
 
 ##  University of Colorado Boulder
 
