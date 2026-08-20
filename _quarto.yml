@@ -28,7 +28,7 @@ website:
       #     - text: Contact
       #       href: contact.qmd             
       - text: Research
-        href: publications.qmd
+        href: posts.qmd#category=paper
         # menu:
           # - text: Publications Listing  # Automatically generated from publications.xlsx
           #   href: pub-listing.qmd
@@ -40,8 +40,13 @@ website:
           #   href: projects.qmd                                
       - text: Teaching # Comment the Teaching part out to remove the Teaching page
         href: teaching.qmd
-      - text: Presentation
-        href: posts.qmd#category=presentation
+      - text: CV
+        href: files/nsf-biosketch.pdf
+        target: _blank
+      - text: Contact
+        href: publications.qmd
+      # - text: Presentation
+      #   href: posts.qmd#category=presentation
         # menu:        
         # - text: Presentations
         #   href: posts.qmd#category=presentation                   
