@@ -82,6 +82,11 @@ img.about-image {
 
 .contact-card {
   max-width: 420px;
-  margin: 2rem 0 2rem 1rem;  /* small left offset */
-  ...
+  margin: 2rem 0;   /* was: 2rem auto */
+  background: #fff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 1.75rem;
+  text-align: center;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
 }
