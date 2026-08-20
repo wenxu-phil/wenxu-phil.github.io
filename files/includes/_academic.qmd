@@ -18,3 +18,13 @@ https://badge.dimensions.ai/
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".quarto-title-meta-heading").forEach(el => {
+    if (el.textContent.trim().toLowerCase() === "published") {
+      el.textContent = "Updated";
+    }
+  });
+});
+</script>
