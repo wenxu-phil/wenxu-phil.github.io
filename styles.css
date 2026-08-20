@@ -92,9 +92,20 @@ img.about-image {
 }
 
 /* Teaching page */
+
+/*
 .course-item {
   padding: 0.9rem 0;
   border-bottom: 1px dashed #ccc;
+}
+*/
+
+.course-item:not(:last-child)::after {
+  content: "";
+  display: block;
+  width: 70%;
+  border-bottom: 1px dashed #ccc;
+  margin: 0.9rem auto 0;
 }
 
 .course-item:last-child {
