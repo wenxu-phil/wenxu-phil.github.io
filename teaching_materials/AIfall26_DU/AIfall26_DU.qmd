@@ -2,6 +2,7 @@
 title: "Philosophy of AI"
 subtitle: "University of Denver — Fall 2026"
 draft: false
+page-layout: full
 ---
 
 ::: {.panel-tabset}
@@ -38,19 +39,19 @@ A brief course description.
   <tr><td>1</td><td>Thu, Sep 10</td><td>DAC prep</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
   <tr><td>2</td><td>Tue, Sep 15</td><td>DAC</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
   <tr><td>2</td><td>Thu, Sep 17</td><td>DAC debrief & Role-Play demo</td><td>Alan Turing, *Computing Machinery and Intelligence*</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-  <tr><td>3</td><td>Tue, Sep 22</td><td>AI Metaphysics</td><td>John Searle, Mind, Brains, and Programs</td><td>1, 2</td><td>6, 7, 8</td><td>9, 10, 11</td><td>15, 16, 17</td></tr>
-  <tr><td>3</td><td>Thu, Sep 24</td><td>AI Metaphysics</td><td></td><td>3, 4, 5</td><td>9, 10</td><td>12, 13</td><td>1, 2</td></tr>
-  <tr><td>4</td><td>Tue, Sep 29</td><td>AI Metaphysics</td><td></td><td>6, 7, 8</td><td>11, 12, 13</td><td>14, 15, 16</td><td>3, 4, 5</td></tr>
-  <tr><td>4</td><td>Thu, Oct 1</td><td>AI Metaphysics</td><td></td><td>9, 10</td><td>14, 15</td><td>17, 1</td><td>6, 7</td></tr>
-  <tr><td>5</td><td>Tue, Oct 6</td><td>AI Epistemology</td><td></td><td>11, 12, 13</td><td>16, 17, 1</td><td>2, 3, 4</td><td>8, 9, 10</td></tr>
-  <tr><td>5</td><td>Thu, Oct 8</td><td>AI Epistemology</td><td></td><td>14, 15, 16</td><td>2, 3, 4</td><td>5, 6, 7</td><td>11, 12, 13</td></tr>
-  <tr><td>6</td><td>Tue, Oct 13</td><td>AI Epistemology</td><td></td><td>17, 1</td><td>5, 6</td><td>8, 9</td><td>14, 15</td></tr>
-  <tr><td>6</td><td>Thu, Oct 15</td><td>AI Epistemology</td><td></td><td>2, 3, 4</td><td>7, 8, 9</td><td>10, 11, 12</td><td>16, 17, 1</td></tr>
-  <tr><td>7</td><td>Tue, Oct 20</td><td>AI Ethics</td><td></td><td>5, 6</td><td>10, 11</td><td>13, 14</td><td>2, 3</td></tr>
-  <tr><td>7</td><td>Thu, Oct 22</td><td>AI Ethics</td><td></td><td>7, 8, 9</td><td>12, 13, 14</td><td>15, 16, 17</td><td>4, 5, 6</td></tr>
-  <tr><td>8</td><td>Tue, Oct 27</td><td>AI Ethics</td><td></td><td>10, 11, 12</td><td>15, 16, 17</td><td>1, 2, 3</td><td>7, 8, 9</td></tr>
-  <tr><td>8</td><td>Thu, Oct 29</td><td>AI Ethics</td><td></td><td>13, 14</td><td>1, 2</td><td>4, 5</td><td>10, 11</td></tr>
-  <tr><td>9</td><td>Tue, Nov 3</td><td>AI Ethics</td><td></td><td>15, 16, 17</td><td>3, 4, 5</td><td>6, 7, 8</td><td>12, 13, 14</td></tr>
+  <tr><td>3</td><td>Tue, Sep 22</td><td>AI Metaphysics</td><td>John Searle, *Mind, Brains, and Programs*</td><td>1, 2</td><td>6, 7, 8</td><td>9, 10, 11</td><td>15, 16, 17</td></tr>
+  <tr><td>3</td><td>Thu, Sep 24</td><td>AI Metaphysics</td><td>Lisa Miracchi Titus, *Does ChatGPT have semantic understanding? A problem with the statistics-of-occurrence strategy*</td><td>3, 4, 5</td><td>9, 10</td><td>12, 13</td><td>1, 2</td></tr>
+  <tr><td>4</td><td>Tue, Sep 29</td><td>AI Metaphysics</td><td>Daniel A. Herrmann and Benjamin A. Levinstein, *Standards for Belief Representations in LLMs*</td><td>6, 7, 8</td><td>11, 12, 13</td><td>14, 15, 16</td><td>3, 4, 5</td></tr>
+  <tr><td>4</td><td>Thu, Oct 1</td><td>AI Metaphysics</td><td>Maarten Boudry and Simon Friederich, *The selfish machine? On the power and limitation of natural selection to understand the development of advanced AI*</td><td>9, 10</td><td>14, 15</td><td>17, 1</td><td>6, 7</td></tr>
+  <tr><td>5</td><td>Tue, Oct 6</td><td>AI Epistemology</td><td>Susan Schneider, *Chatbot Epistemology*</td><td>11, 12, 13</td><td>16, 17, 1</td><td>2, 3, 4</td><td>8, 9, 10</td></tr>
+  <tr><td>5</td><td>Thu, Oct 8</td><td>AI Epistemology</td><td>Kanishka Misra and Kyle Mahowald, *Language Models Learn Rare Phenomena from Less Rare Phenomena: The Case of the Missing AANNs*</td><td>14, 15, 16</td><td>2, 3, 4</td><td>5, 6, 7</td><td>11, 12, 13</td></tr>
+  <tr><td>6</td><td>Tue, Oct 13</td><td>AI Epistemology</td><td>Elizabeth Fricker, *On the Metaphysical and Epistemic Contrasts between Human and AI Testimony*</td><td>17, 1</td><td>5, 6</td><td>8, 9</td><td>14, 15</td></tr>
+  <tr><td>6</td><td>Thu, Oct 15</td><td>AI Epistemology</td><td>Ori Freiman, *AI-Testimony, Conversational AIs and Our Anthropocentric Theory of Testimony*</td><td>2, 3, 4</td><td>7, 8, 9</td><td>10, 11, 12</td><td>16, 17, 1</td></tr>
+  <tr><td>7</td><td>Tue, Oct 20</td><td>AI Ethics</td><td>Raphaël Millière, *Normative conflicts and shallow AI alignment*</td><td>5, 6</td><td>10, 11</td><td>13, 14</td><td>2, 3</td></tr>
+  <tr><td>7</td><td>Thu, Oct 22</td><td>AI Ethics</td><td>Herman Cappelen, Josh Dever & John Hawthorne, *AI safety: a climb to Armageddon?*</td><td>7, 8, 9</td><td>12, 13, 14</td><td>15, 16, 17</td><td>4, 5, 6</td></tr>
+  <tr><td>8</td><td>Tue, Oct 27</td><td>AI Ethics</td><td>Robert Long, Jeff Sebo & Toni Sims, *Is there a tension between AI safety and AI welfare?*</td><td>10, 11, 12</td><td>15, 16, 17</td><td>1, 2, 3</td><td>7, 8, 9</td></tr>
+  <tr><td>8</td><td>Thu, Oct 29</td><td>AI Ethics</td><td>Peter Singer and Yip Fai Tse, *AI ethics the case for including animals*</td><td>13, 14</td><td>1, 2</td><td>4, 5</td><td>10, 11</td></tr>
+  <tr><td>9</td><td>Tue, Nov 3</td><td>AI Ethics</td><td>Eric Schwitzgebel and and Walter Sinnott-Armstrong, *Sacrificing Humans for Insects and AI*</td><td>15, 16, 17</td><td>3, 4, 5</td><td>6, 7, 8</td><td>12, 13, 14</td></tr>
   <tr><td>9</td><td>Thu, Nov 5</td><td>DAC prep</td><td></td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
   <tr><td>10</td><td>Tue, Nov 10</td><td>DAC</td><td></td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
   <tr><td>10</td><td>Thu, Nov 12</td><td>DAC debrief</td><td></td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
