@@ -16,7 +16,7 @@ I have taught philosophy at the University of Denver and the University of Color
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Discovering Philosophy</div>
-<div class="course-semesters"><span class="semester-chip">Winter 2025</span></div>
+<div class="course-semesters"><span class="semester-chip"><a href="teaching_materials/discoverwinter25_DU/discoverwinter25_DU.qmd">Winter 2025</a></span>
 :::
 :::
 
@@ -47,7 +47,7 @@ I have taught philosophy at the University of Denver and the University of Color
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Nature and Limits of Human Knowledge</div>
 <div class="course-semesters">
-  <span class="semester-chip"><a href="teaching_materials/knowledgefall25_DU/knowledgefall25_DU.qmd">Fall 2026</a></span>
+  <span class="semester-chip"><a href="teaching_materials/knowledgefall25_DU/knowledgefall25_DU.qmd">Fall 2025</a></span>
   <span class="semester-chip">Spring 2025</span>
 </div>
 :::
