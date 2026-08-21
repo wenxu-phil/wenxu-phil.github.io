@@ -14,7 +14,17 @@ page-layout: full
 **Instructor:** Wen Xu  
 **Office Hours:** Tue & Thu 8 - 9:50 AM (Sturm 263 or via Zoom)
 
-A brief course description.
+In this course, we will explore the philosophical issues regarding our current state-of-arts generative artificial intelligence systems. Our approach is twofold: we will consider how established philosophical theories can help us make sense of the new phenomena emerging from generative AI, and, conversely, how advances in AI can inspire us to rethink, refine, and even remodel our philosophical frameworks.
+
+The course will focus on three broad areas:
+
+AI Metaphysics: Are current AI systems intelligent, conscious, or “minded” in any meaningful sense?
+AI Epistemology: Can AI systems represent knowledge, and what can we learn from their outputs?
+AI Ethics: How do AI technologies raise moral and societal concerns, including issues of fairness, justice, and social impact?
+
+No prerequisites are required. Students should be prepared to engage in careful reading, discussion, and critical reflection on the assigned texts. 
+
+The course follows a flipped-classroom format using a role-playing method adapted from Alec Jacobson and Colin Raffel (2021), “Role-Playing Paper-Reading Seminars.” Active and consistent participation is therefore expected.
 
 ## Schedule
 
