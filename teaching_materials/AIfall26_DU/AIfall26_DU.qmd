@@ -52,8 +52,8 @@ A brief course description.
   <tr><td>8</td><td>Tue, Oct 27</td><td>AI Ethics</td><td>Robert Long, Jeff Sebo & Toni Sims, *Is there a tension between AI safety and AI welfare?*</td><td>10, 11, 12</td><td>15, 16, 17</td><td>1, 2, 3</td><td>7, 8, 9</td></tr>
   <tr><td>8</td><td>Thu, Oct 29</td><td>AI Ethics</td><td>Peter Singer and Yip Fai Tse, *AI ethics the case for including animals*</td><td>13, 14</td><td>1, 2</td><td>4, 5</td><td>10, 11</td></tr>
   <tr><td>9</td><td>Tue, Nov 3</td><td>AI Ethics</td><td>Eric Schwitzgebel and and Walter Sinnott-Armstrong, *Sacrificing Humans for Insects and AI*</td><td>15, 16, 17</td><td>3, 4, 5</td><td>6, 7, 8</td><td>12, 13, 14</td></tr>
-  <tr><td>9</td><td>Thu, Nov 5</td><td>DAC prep</td><td></td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-  <tr><td>10</td><td>Tue, Nov 10</td><td>DAC</td><td></td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
-  <tr><td>10</td><td>Thu, Nov 12</td><td>DAC debrief</td><td></td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr><td>9</td><td>Thu, Nov 5</td><td>DAC prep</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr><td>10</td><td>Tue, Nov 10</td><td>DAC</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+  <tr><td>10</td><td>Thu, Nov 12</td><td>DAC debrief</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
 </tbody>
 </table>
