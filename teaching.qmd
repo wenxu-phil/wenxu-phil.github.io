@@ -26,7 +26,7 @@ I have taught philosophy at the University of Denver and the University of Color
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Classical Greek Philosophy</div>
-<div class="course-semesters"><span class="semester-chip">Winter 2025</span></div>
+<div class="course-semesters"><span class="semester-chip"><a href="teaching_materials/greekwinter25_DU/greekwinter25_DU.qmd">Winter 2025</a></span></div>
 :::
 :::
 
