@@ -16,7 +16,7 @@ I have taught philosophy at the University of Denver and the University of Color
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Discovering Philosophy</div>
-<div class="course-semesters"><span class="semester-chip"><a href="teaching_materials/discoverwinter25_DU/discoverwinter25_DU.qmd">Winter 2025</a></span>
+<div class="course-semesters"><span class="semester-chip"><a href="teaching_materials/discoverwinter25_DU/discoverwinter25_DU.qmd">Winter 2025</a></span></div>
 :::
 :::
 
