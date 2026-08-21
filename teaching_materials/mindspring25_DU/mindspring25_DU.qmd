@@ -1,3 +1,24 @@
+---
+title: "Philosophy of Mind"
+subtitle: "University of Denver — Spring 2025"
+draft: false
+page-layout: full
+---
+
+::: {.panel-tabset}
+
+## Information
+
+**Time:** Mon & Wed, 10 - 11:50 AM  
+**Location:** Sturm 379  
+**Instructor:** Wen Xu  
+**Office Hours:** Monday 2 - 4 PM (Sturm 263)
+
+This course examines key questions about the nature of the mind, its relationship to the physical world, and the mechanisms underlying thought, consciousness, and behavior. Topics include foundational theories such as dualism, behaviorism, identity theory, and functionalism, as well as contemporary debates on mental causation, consciousness, and mental content. We will also explore challenges to folk psychology and the philosophical implications of artificial intelligence.
+
+In this course, my goal is to guide you in exploring key ideas in the philosophy of mind and encourage reflection on your own beliefs. To achieve this goal, I will do my best to promote class discussion, intending to provoke questions and ideas in your mind. My hope is that you will come away with a deeper appreciation for the field and an understanding of why these topics are interesting.
+
+
 ## Schedule
 
 <table class="table table-striped">
