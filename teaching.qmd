@@ -69,7 +69,7 @@ I have taught philosophy at the University of Denver and the University of Color
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Philosophy of AI</div>
-<div class="course-semesters"><span class="semester-chip">Fall 2026</span></div>
+<div class="course-semesters"><span class="semester-chip"><a href="teaching/AIfall26_DU/AIfall26_DU.qmd">Fall 2026</a></span></div>
 :::
 :::
 
