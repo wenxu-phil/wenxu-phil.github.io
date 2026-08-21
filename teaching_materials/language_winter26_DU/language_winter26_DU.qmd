@@ -1,1 +1,217 @@
+---
+title: "Philosophy of Language"
+subtitle: "University of Denver — Winter 2026"
+draft: false
+page-layout: full
+---
 
+::: {.panel-tabset}
+
+## Information
+
+**Time:** Mon & Wed, 8 - 9:50 AM  
+**Location:** Sturm 312  
+**Instructor:** Wen Xu  
+**Office Hours:** Wednesday 2 - 4 PM (via Zoom)
+
+This course offers an introduction to contemporary philosophy of language, the field that examines the nature of language and the role it plays in philosophical inquiry. We will explore how philosophers of language address questions such as: What are words, and how do they come to have meaning? How do words and phrases come to refer to things in the world? What kinds of acts do we perform in using language? The course centers on three main topics:
+
+- **Formal Logic**
+- **Names and Descriptions**
+- **Communication**
+
+The goal of this course is to engage you in critical reflection on the nature and use of languages. To achieve this goal, I will do my best to promote class discussion, intending to provoke questions and ideas in your mind. My hope is that you will come away with a deeper appreciation of what language is and the role it plays in shaping how we understand the world.
+
+## Schedule
+
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>Week</th>
+    <th>Date</th>
+    <th>Topic</th>
+    <th>Readings</th>
+    <th>Assignments</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>Mon, Jan 5</td>
+    <td>Introduction</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Wed, Jan 7</td>
+    <td>Formal Logic</td>
+    <td>Graeme Forbes, <i>Modern Logic</i>, Ch. 2</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Sun, Jan 11</td>
+    <td>—</td>
+    <td>—</td>
+    <td>Syllabus Quiz due by 11:59 PM</td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td>Mon, Jan 12</td>
+    <td>Formal Logic</td>
+    <td>Graeme Forbes, <i>Modern Logic</i>, Ch. 4</td>
+    <td>Logic Exercise 1 due before class</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Wed, Jan 14</td>
+    <td>Formal Logic</td>
+    <td>—</td>
+    <td>Logic Exercise 2 due before class</td>
+  </tr>
+
+  <tr>
+    <td>3</td>
+    <td>Mon, Jan 19</td>
+    <td>No Class — MLK Day</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Wed, Jan 21</td>
+    <td>Formal Logic</td>
+    <td>—</td>
+    <td>Logic Exercise 3 due before class</td>
+  </tr>
+
+  <tr>
+    <td>4</td>
+    <td>Mon, Jan 26</td>
+    <td>Formal Logic</td>
+    <td>Graeme Forbes, <i>Modern Logic</i>, Ch. 5, §§1–4</td>
+    <td>Logic Exercise 4 due before class</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Wed, Jan 28</td>
+    <td>Logic Exam</td>
+    <td>—</td>
+    <td>Logic Exam</td>
+  </tr>
+
+  <tr>
+    <td>5</td>
+    <td>Mon, Feb 2</td>
+    <td>Names and Descriptions</td>
+    <td>Gottlob Frege, <i>Sense and Reference</i></td>
+    <td>Reading Response 1 due before class</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Wed, Feb 4</td>
+    <td>Names and Descriptions</td>
+    <td>Gottlob Frege, <i>Sense and Reference</i></td>
+    <td>—</td>
+  </tr>
+
+  <tr>
+    <td>6</td>
+    <td>Mon, Feb 9</td>
+    <td>Names and Descriptions</td>
+    <td>Bertrand Russell, <i>On Denoting</i></td>
+    <td>Reading Response 2 due before class</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Wed, Feb 11</td>
+    <td>Names and Descriptions</td>
+    <td>Bertrand Russell, <i>On Denoting</i></td>
+    <td>—</td>
+  </tr>
+
+  <tr>
+    <td>7</td>
+    <td>Mon, Feb 16</td>
+    <td>Names and Descriptions</td>
+    <td>Hilary Putnam, <i>Meaning and Reference</i></td>
+    <td>Reading Response 3 due before class</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Wed, Feb 18</td>
+    <td>Debate Workshop 1</td>
+    <td>—</td>
+    <td>Defense Script 1 due by 11:59 PM</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Sun, Feb 22</td>
+    <td>—</td>
+    <td>—</td>
+    <td>Response Script 1 due by 11:59 PM</td>
+  </tr>
+
+  <tr>
+    <td>8</td>
+    <td>Mon, Feb 23</td>
+    <td>Oral Defense 1</td>
+    <td>—</td>
+    <td>Oral Defense 1</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Wed, Feb 25</td>
+    <td>Communication</td>
+    <td>J. L. Austin, <i>Performative Utterance</i></td>
+    <td>Reading Response 4 due before class</td>
+  </tr>
+
+  <tr>
+    <td>9</td>
+    <td>Mon, Mar 2</td>
+    <td>Communication</td>
+    <td>J. L. Austin, <i>Performative Utterance</i></td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Wed, Mar 4</td>
+    <td>Communication</td>
+    <td>H. P. Grice, <i>Logic and Conversation</i></td>
+    <td>Reading Response 5 due before class</td>
+  </tr>
+
+  <tr>
+    <td>10</td>
+    <td>Mon, Mar 9</td>
+    <td>Communication</td>
+    <td>H. P. Grice, <i>Logic and Conversation</i></td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Wed, Mar 11</td>
+    <td>Communication</td>
+    <td>Elizabeth Fricker, <i>On the Metaphysical and Epistemic Contrasts between Human and AI Testimony</i></td>
+    <td>Reading Response 6 due before class</td>
+  </tr>
+
+  <tr>
+    <td>11</td>
+    <td>Mon, Mar 16</td>
+    <td>Debate Workshop 2</td>
+    <td>—</td>
+    <td>Defense Script 2 due by 11:59 PM</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>Wed, Mar 18</td>
+    <td>Oral Defense 2</td>
+    <td>—</td>
+    <td>Response Script 2 due by 11:59 PM</td>
+  </tr>
+</tbody>
+</table>
