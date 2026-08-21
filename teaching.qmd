@@ -59,7 +59,7 @@ I have taught philosophy at the University of Denver and the University of Color
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Philosophy of Language</div>
-<div class="course-semesters"><span class="semester-chip"><a href="teaching_materials/language_winter26_DU/language_winter26_DU.qmd">Winter 2026</span></div>
+<div class="course-semesters"><span class="semester-chip"><a href="teaching_materials/language_winter26_DU/language_winter26_DU.qmd">Winter 2026</a></span></div>
 :::
 :::
 
