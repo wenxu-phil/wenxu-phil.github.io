@@ -1,1 +1,197 @@
+---
+title: "Classical Greek Philosophy"
+subtitle: "University of Denver — Winter 2025"
+draft: false
+page-layout: full
+---
 
+::: {.panel-tabset}
+
+## Information
+
+**Time:** Mon & Wed, 2 - 3:50 PM  
+**Location:** Sturm 353  
+**Instructor:** Wen Xu  
+**Office Hours:** Monday 4 - 6 PM (Sturm 263)
+
+This course is designed to introduce to you major philosophical ideas originating in ancient Greece. Specifically, we will focus on six topics from ancient philosophy: (1) Happiness, (2) Virtue, (3) Democracy, (4) Love and Friendship, (5) Fate and Freedom, and (6) Ontology. Even nowadays problems and issues concerning these topics are still widely discussed and vigorously debated among people all over the world. In this course, my goal is to lead you to explore these big ideas in historical context and to have you reflect on your own beliefs and thoughts through an ancient lens. To achieve this goal, I will do my best to promote class discussion, intending to provoke questions and ideas in your mind. My hope is that you will come away with a deeper appreciation of what philosophy is, and why the Greeks are interesting. 
+
+## Schedule
+
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>Week</th>
+    <th>Date</th>
+    <th>Topic</th>
+    <th>Readings</th>
+    <th>Assignments</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>Mon, Jan 6</td>
+    <td>Happiness</td>
+    <td>Introduction; Historical Overview</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Wed, Jan 8</td>
+    <td>Happiness</td>
+    <td>Aristotle, <i>Nicomachean Ethics</i>, Book 1, Chs. 1, 2, 4, 5, 7–10; Epicurus, <i>Letter to Menoeceus</i></td>
+    <td>Reading Response 1; Practice In-Class Quiz</td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td>Mon, Jan 13</td>
+    <td>Virtue</td>
+    <td>Plato, <i>Republic</i>, Book 1, 338c–354c</td>
+    <td>Reading Response 2; In-Class Quiz 1</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Wed, Jan 15</td>
+    <td>Virtue</td>
+    <td>Plato, <i>Republic</i>, Book 9, 588b–590d; Plato, <i>Phaedrus</i>, 253d–254e; Plato, <i>Republic</i>, Book 4, 435c–444e; Aristotle, <i>Nicomachean Ethics</i>, Book 2, Chs. 5–9</td>
+    <td>Reading Response 3; In-Class Quiz 2</td>
+  </tr>
+
+  <tr>
+    <td>3</td>
+    <td>Mon, Jan 20</td>
+    <td>No Class — Martin Luther King Holiday</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Wed, Jan 22</td>
+    <td>Exam 1</td>
+    <td>—</td>
+    <td>Exam 1</td>
+  </tr>
+
+  <tr>
+    <td>4</td>
+    <td>Mon, Jan 27</td>
+    <td>Democracy Part 1</td>
+    <td>Pericles, <i>Funeral Oration</i>; Melissa Lane, “Chapter 3: Democracy,” in <i>The Birth of Politics: Eight Greek and Roman Political Ideas and Why They Matter</i></td>
+    <td>Reading Response 4</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Wed, Jan 29</td>
+    <td>Democracy Part 1</td>
+    <td>Plato, <i>Apology</i></td>
+    <td>Reading Response 5; In-Class Quiz 3</td>
+  </tr>
+
+  <tr>
+    <td>5</td>
+    <td>Mon, Feb 3</td>
+    <td>Democracy Part 2 &amp; Love and Friendship Part 1</td>
+    <td>Plato, <i>Republic</i>, Book 6, 487a–489c; Plato, <i>Republic</i>, Books 8–9, 555b–580a; Aristotle, <i>Politics</i>, Book 3, Ch. 11; Book 4, Chs. 3, 4, 7, 8, 9, 11</td>
+    <td>Reading Response 6; In-Class Quiz 4</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Wed, Feb 5</td>
+    <td>Love and Friendship Part 1</td>
+    <td>Aristotle, <i>Nicomachean Ethics</i>, Book 8, Chs. 1–14</td>
+    <td>Reading Response 7; In-Class Quiz 5</td>
+  </tr>
+
+  <tr>
+    <td>6</td>
+    <td>Mon, Feb 10</td>
+    <td>Love and Friendship Part 2</td>
+    <td>Plato, <i>Symposium</i>, 172a–199c</td>
+    <td>Reading Response 8; In-Class Quiz 6</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Wed, Feb 12</td>
+    <td>Love and Friendship Part 2</td>
+    <td>Plato, <i>Symposium</i>, 199c–215a</td>
+    <td>Reading Response 9; In-Class Quiz 7</td>
+  </tr>
+
+  <tr>
+    <td>7</td>
+    <td>Mon, Feb 17</td>
+    <td>Love and Friendship Part 3</td>
+    <td>Plato, <i>Symposium</i>, 215a–223d</td>
+    <td>In-Class Quiz 8</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Wed, Feb 19</td>
+    <td>Exam 2</td>
+    <td>—</td>
+    <td>Exam 2</td>
+  </tr>
+
+  <tr>
+    <td>8</td>
+    <td>Mon, Feb 24</td>
+    <td>Fate and Freedom Part 1</td>
+    <td>Homer, <i>Iliad</i>, Book 16, 512–548; Aristotle, <i>Nicomachean Ethics</i>, Book 3, Ch. 5; Cicero, <i>On Fate</i>, 39–43; Alexander of Aphrodisias, <i>On Fate</i>, 181, 13–182, 20</td>
+    <td>Reading Response 10</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Wed, Feb 26</td>
+    <td>Fate and Freedom Part 1</td>
+    <td>Epicurus, <i>On Nature</i>, Book 34, 26–30; Lucretius, <i>On the Nature of Things</i>, Book 2, 251–293; Epictetus, <i>Discourses</i>, 2.19.1–5; Cicero, <i>On Fate</i>, 12–15</td>
+    <td>Reading Response 11; In-Class Quiz 9</td>
+  </tr>
+
+  <tr>
+    <td>9</td>
+    <td>Mon, Mar 3</td>
+    <td>Fate and Freedom Part 2 &amp; Ontology Part 1</td>
+    <td>Aristotle, <i>On Interpretation</i>, 9</td>
+    <td>Reading Response 12; In-Class Quiz 10</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Wed, Mar 5</td>
+    <td>Ontology Part 1</td>
+    <td>Aristotle, <i>Categories</i>, 1–4</td>
+    <td>Reading Response 13; In-Class Quiz 11</td>
+  </tr>
+
+  <tr>
+    <td>10</td>
+    <td>Mon, Mar 10</td>
+    <td>Ontology Part 2</td>
+    <td>Aristotle, <i>Categories</i>, 5–6</td>
+    <td>Reading Response 14; In-Class Quiz 12</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Wed, Mar 12</td>
+    <td>Ontology Part 2</td>
+    <td>Aristotle, <i>Categories</i>, 10–15</td>
+    <td>Reading Response 15; In-Class Quiz 13</td>
+  </tr>
+
+  <tr>
+    <td>11</td>
+    <td>Mon, Mar 17</td>
+    <td>Academic Debating</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>Wed, Mar 19</td>
+    <td>Exam 3</td>
+    <td>—</td>
+    <td>Exam 3</td>
+  </tr>
+</tbody>
+</table>
