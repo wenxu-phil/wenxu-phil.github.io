@@ -1,1 +1,205 @@
+---
+title: "Discovering Philosophy"
+subtitle: "University of Denver — Winter 2025"
+draft: false
+page-layout: full
+---
 
+::: {.panel-tabset}
+
+## Information
+
+**Time:** Mon & Wed, 10 - 11:50 AM  
+**Location:** Sturm 312  
+**Instructor:** Wen Xu  
+**Office Hours:** Monday 4 - 6 PM (Sturm 263)
+
+This course is designed to introduce to you major philosophical problems and ideas. Specifically, we will focus on five topics:
+
+- Knowledge and Skepticism
+- Philosophy of Religion
+- Formal Logic
+- Personal Identity and Free Will
+- Mind and Body
+
+Problems and issues concerning these topics have ancient roots and are widely discussed and vigorously debated among people all over the world. In this course, my goal is to lead you to explore these big ideas and to have you reflect on your own beliefs and thoughts through a philosophical lens. To achieve this goal, I will do my best to promote class discussion, intending to provoke questions and ideas in your mind. My hope is that you will come away with a deeper appreciation of what philosophy is, and why these topics are interesting.
+
+## Schedule
+
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>Week</th>
+    <th>Date</th>
+    <th>Topic</th>
+    <th>Readings</th>
+    <th>Assignments</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>Mon, Jan 6</td>
+    <td>Knowledge and Skepticism Part 1</td>
+    <td>Plato, <i>Laches</i>, 189d–201c</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Wed, Jan 8</td>
+    <td>Knowledge and Skepticism Part 1</td>
+    <td>Peter J. Graham, <i>Can Testimony Generate Knowledge?</i>, pp. 107–115 (Mrs. Smith's case and Mr. Jones' case); Alison Hills, <i>Moral Testimony</i></td>
+    <td>Reading Response 1; Practice In-Class Quiz</td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td>Mon, Jan 13</td>
+    <td>Knowledge and Skepticism Part 2</td>
+    <td>Plato, <i>Theaetetus</i>, 148c–151d; Sextus Empiricus, <i>Outlines of Pyrrhonism I</i>, 1–30, 100–117</td>
+    <td>Reading Response 2; In-Class Quiz 1</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Wed, Jan 15</td>
+    <td>Knowledge and Skepticism Part 2</td>
+    <td>James Rachels &amp; Stuart Rachels, <i>Vats and Demons</i>, pp. 113–115; <i>Idealism &amp; Realism</i>, pp. 115–117, 120–121</td>
+    <td>Reading Response 3; In-Class Quiz 2</td>
+  </tr>
+
+  <tr>
+    <td>3</td>
+    <td>Mon, Jan 20</td>
+    <td>No Class — Martin Luther King Holiday</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Wed, Jan 22</td>
+    <td>Exam 1</td>
+    <td>—</td>
+    <td>Exam 1</td>
+  </tr>
+
+  <tr>
+    <td>4</td>
+    <td>Mon, Jan 27</td>
+    <td>Philosophy of Religion</td>
+    <td>James Rachels &amp; Stuart Rachels, <i>God and the Origin of the Universe</i>, pp. 9–13; William Paley, <i>The Design Argument</i></td>
+    <td>Reading Response 4</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Wed, Jan 29</td>
+    <td>Philosophy of Religion</td>
+    <td>Saint Anselm and Gaunilo, <i>The Ontological Argument</i>; James Rachels &amp; Stuart Rachels, <i>The Problem of Evil</i></td>
+    <td>Reading Response 5; In-Class Quiz 3</td>
+  </tr>
+
+  <tr>
+    <td>5</td>
+    <td>Mon, Feb 3</td>
+    <td>Formal Logic Part 1</td>
+    <td>Graeme Forbes, <i>Modern Logic</i>, Ch. 2</td>
+    <td>Reading Response 6; In-Class Quiz 4</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Wed, Feb 5</td>
+    <td>Formal Logic Part 1</td>
+    <td>Graeme Forbes, <i>Modern Logic</i>, Ch. 4</td>
+    <td>Reading Response 7; In-Class Quiz 5</td>
+  </tr>
+
+  <tr>
+    <td>6</td>
+    <td>Mon, Feb 10</td>
+    <td>Formal Logic Part 2</td>
+    <td>—</td>
+    <td>In-Class Quiz 6</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Wed, Feb 12</td>
+    <td>Formal Logic Part 2</td>
+    <td>—</td>
+    <td>In-Class Quiz 7</td>
+  </tr>
+
+  <tr>
+    <td>7</td>
+    <td>Mon, Feb 17</td>
+    <td>Formal Logic Part 2</td>
+    <td>—</td>
+    <td>In-Class Quiz 8</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Wed, Feb 19</td>
+    <td>Exam 2</td>
+    <td>—</td>
+    <td>Exam 2</td>
+  </tr>
+
+  <tr>
+    <td>8</td>
+    <td>Mon, Feb 24</td>
+    <td>Personal Identity &amp; Free Will Part 1</td>
+    <td>James Rachels &amp; Stuart Rachels, <i>The Problem of Personal Identity</i>, pp. 47–52</td>
+    <td>Reading Response 8</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Wed, Feb 26</td>
+    <td>Personal Identity &amp; Free Will Part 1</td>
+    <td>James Rachels &amp; Stuart Rachels, <i>Bodily Continuity &amp; Memory</i>, pp. 52–60; David Boonin, <i>How to Solve the Non-Identity Problem</i></td>
+    <td>Reading Response 9; In-Class Quiz 9</td>
+  </tr>
+
+  <tr>
+    <td>9</td>
+    <td>Mon, Mar 3</td>
+    <td>Personal Identity &amp; Free Will Part 2</td>
+    <td>Aristotle, <i>Nicomachean Ethics</i>, Book 3, Ch. 5; Cicero, <i>On Fate</i>, 39–43</td>
+    <td>Reading Response 10; In-Class Quiz 10</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Wed, Mar 5</td>
+    <td>Personal Identity &amp; Free Will Part 2</td>
+    <td>James Rachels &amp; Stuart Rachels, <i>The Debate over Free Will</i>, pp. 97–111</td>
+    <td>Reading Response 11; In-Class Quiz 11</td>
+  </tr>
+
+  <tr>
+    <td>10</td>
+    <td>Mon, Mar 10</td>
+    <td>Mind and Body</td>
+    <td>James Rachels &amp; Stuart Rachels, <i>Descartes and Elizabeth</i>, pp. 61–64; Bertrand Russell, <i>Analogy</i>, in <i>Human Knowledge: Its Scope and Limits</i>, pp. 425–428; J. J. C. Smart, <i>Mental Processes Are Physical</i></td>
+    <td>Reading Response 12; In-Class Quiz 12</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Wed, Mar 12</td>
+    <td>Mind and Body</td>
+    <td>James Rachels &amp; Stuart Rachels, <i>Functionalism</i>, pp. 70–72; <i>Doubts about Materialist Theories</i>, pp. 72–74</td>
+    <td>Reading Response 13; In-Class Quiz 13</td>
+  </tr>
+
+  <tr>
+    <td>11</td>
+    <td>Mon, Mar 17</td>
+    <td>Academic Debating</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>Wed, Mar 19</td>
+    <td>Exam 3</td>
+    <td>—</td>
+    <td>Exam 3</td>
+  </tr>
+</tbody>
+</table>
