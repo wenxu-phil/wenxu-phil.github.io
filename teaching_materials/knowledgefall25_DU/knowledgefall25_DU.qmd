@@ -1,6 +1,6 @@
 ---
 title: "Philosophy of Language"
-subtitle: "University of Denver — Winter 2026"
+subtitle: "University of Denver — Fall 2025"
 draft: false
 page-layout: full
 ---
