@@ -10,9 +10,9 @@ page-layout: full
 ## Information
 
 **Time:** Mon & Wed, 8 - 9:50 AM  
-**Location:** Sturm 312  
+**Location:** Sturm 335  
 **Instructor:** Wen Xu  
-**Office Hours:** Wednesday 2 - 4 PM (via Zoom)
+**Office Hours:** Wednesday 1 - 3 PM (via Zoom)
 
 This course is designed to introduce to you key issues and debates within epistemology, the philosophical study of knowledge. We will explore how different epistemologists try to answer central questions such as: What is knowledge? What counts as justification? Where do knowledge and justification come from? Can we acquire them? How do we acquire them? We will also consider whether modern technology poses particular challenges to knowledge acquisition. Specifically, the course will focus on four main topics:
 
