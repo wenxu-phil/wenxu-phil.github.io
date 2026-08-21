@@ -1,1 +1,172 @@
+## Schedule
 
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>Week</th>
+    <th>Date</th>
+    <th>Topic</th>
+    <th>Readings</th>
+    <th>Assignments</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>Mon, Mar 31</td>
+    <td>Dualism</td>
+    <td>Kwame Gyekye, <i>The Akan Concept of a Person</i></td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Wed, Apr 2</td>
+    <td>Dualism</td>
+    <td>René Descartes, <i>Sixth Meditation</i>, pp. 71–78; <i>The Correspondence Between Princess Elisabeth of Bohemia and Descartes</i></td>
+    <td>Reading Response 1 due before class</td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td>Mon, Apr 7</td>
+    <td>Behaviorism</td>
+    <td>Spark 2025</td>
+    <td>Reading Response 2 due by 11:59 PM</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Wed, Apr 9</td>
+    <td>Behaviorism</td>
+    <td>Gilbert Ryle, <i>Descartes' Myth</i></td>
+    <td>Reading Response 3 due before class</td>
+  </tr>
+
+  <tr>
+    <td>3</td>
+    <td>Mon, Apr 14</td>
+    <td>Behaviorism &amp; Identity Theory</td>
+    <td>Hilary Putnam, <i>Brains and Behavior</i></td>
+    <td>Reading Response 4 due before class</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Wed, Apr 16</td>
+    <td>Behaviorism &amp; Identity Theory</td>
+    <td>J. J. C. Smart, <i>Sensations and Brain Processes</i></td>
+    <td>Reading Response 5 due before class</td>
+  </tr>
+
+  <tr>
+    <td>4</td>
+    <td>Mon, Apr 21</td>
+    <td>Functionalism</td>
+    <td>David M. Armstrong, <i>The Causal Theory of the Mind</i></td>
+    <td>Reading Response 6 due before class</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Wed, Apr 23</td>
+    <td>Exam 1</td>
+    <td>—</td>
+    <td>Exam 1</td>
+  </tr>
+
+  <tr>
+    <td>5</td>
+    <td>Mon, Apr 28</td>
+    <td>Mental Causation</td>
+    <td>Donald Davidson, <i>Mental Events</i></td>
+    <td>Reading Response 7 due before class</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Wed, Apr 30</td>
+    <td>Mental Causation</td>
+    <td>Jaegwon Kim, <i>The Many Problems of Mental Causation</i></td>
+    <td>Reading Response 8 due before class</td>
+  </tr>
+
+  <tr>
+    <td>6</td>
+    <td>Mon, May 5</td>
+    <td>Consciousness</td>
+    <td>David Rosenthal, <i>Explaining Consciousness</i></td>
+    <td>Reading Response 9 due before class</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Wed, May 7</td>
+    <td>Consciousness</td>
+    <td>Thomas Nagel, <i>What Is It Like to Be a Bat?</i></td>
+    <td>Reading Response 10 due before class</td>
+  </tr>
+
+  <tr>
+    <td>7</td>
+    <td>Mon, May 12</td>
+    <td>Exam 2</td>
+    <td>—</td>
+    <td>Exam 2</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Wed, May 14</td>
+    <td>Artificial Intelligence</td>
+    <td>Andy Clark &amp; David Chalmers, <i>The Extended Mind</i></td>
+    <td>Reading Response 11 due before class</td>
+  </tr>
+
+  <tr>
+    <td>8</td>
+    <td>Mon, May 19</td>
+    <td>Artificial Intelligence</td>
+    <td>Alan M. Turing, <i>Computing Machinery and Intelligence</i></td>
+    <td>Reading Response 12 due before class</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Wed, May 21</td>
+    <td>Academic Debating, Session A</td>
+    <td>—</td>
+    <td>Academic Debating Brief due by 11:59 PM on Tue, May 20</td>
+  </tr>
+
+  <tr>
+    <td>9</td>
+    <td>Mon, May 26</td>
+    <td>No Class — Memorial Day</td>
+    <td>—</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Wed, May 28</td>
+    <td>Academic Debating, Session B</td>
+    <td>—</td>
+    <td>Academic Debating Response due by 11:59 PM</td>
+  </tr>
+
+  <tr>
+    <td>10</td>
+    <td>Mon, Jun 2</td>
+    <td>Artificial Intelligence</td>
+    <td>John R. Searle, <i>Minds, Brains, and Programs</i></td>
+    <td>Reading Response 13 due before class</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Wed, Jun 4</td>
+    <td>Artificial Intelligence</td>
+    <td>Kyle Mahowald and Anna A. Ivanova et al., <i>Dissociating Language and Thought in LLMs</i></td>
+    <td>Reading Response 14 due before class</td>
+  </tr>
+
+  <tr>
+    <td>11</td>
+    <td>Mon, Jun 9</td>
+    <td>Exam 3</td>
+    <td>—</td>
+    <td>Exam 3</td>
+  </tr>
+</tbody>
+</table>
