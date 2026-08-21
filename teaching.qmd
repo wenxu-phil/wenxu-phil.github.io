@@ -36,7 +36,7 @@ I have taught philosophy at the University of Denver and the University of Color
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Philosophy of Mind</div>
-<div class="course-semesters"><span class="semester-chip">Spring 2025</span></div>
+<div class="course-semesters"><span class="semester-chip"><a href="teaching_materials/mindspring25_DU/mindspring25_DU.qmd">Spring 2025</a></span></div>
 :::
 :::
 
