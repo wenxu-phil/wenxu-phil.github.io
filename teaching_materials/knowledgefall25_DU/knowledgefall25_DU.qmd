@@ -1,1 +1,225 @@
+---
+title: "Philosophy of Language"
+subtitle: "University of Denver — Winter 2026"
+draft: false
+page-layout: full
+---
 
+::: {.panel-tabset}
+
+## Information
+
+**Time:** Mon & Wed, 8 - 9:50 AM  
+**Location:** Sturm 312  
+**Instructor:** Wen Xu  
+**Office Hours:** Wednesday 2 - 4 PM (via Zoom)
+
+This course is designed to introduce to you key issues and debates within epistemology, the philosophical study of knowledge. We will explore how different epistemologists try to answer central questions such as: What is knowledge? What counts as justification? Where do knowledge and justification come from? Can we acquire them? How do we acquire them? We will also consider whether modern technology poses particular challenges to knowledge acquisition. Specifically, the course will focus on four main topics:
+
+- Justification and Knowledge
+- Testimony
+- Trust and Distrust
+- Thinking in the Age of AI
+
+The goal of this course is to engage you in critical reflection on the nature and limits of human knowledge. To achieve this goal, I will do my best to promote class discussion, intending to provoke questions and ideas in your mind. My hope is that you will come away with a deeper appreciation of what epistemology is and be inspired to think critically about what it means to believe, know, and understand the world around you.
+
+## Schedule
+
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th>Week</th>
+    <th>Date</th>
+    <th>Topic</th>
+    <th>Readings</th>
+    <th>Assignments</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1</td>
+    <td>Mon, Sep 8</td>
+    <td>Justification and Knowledge</td>
+    <td>James Rachels &amp; Stuart Rachels, <i>Vats and Demons</i>, pp. 113–115</td>
+    <td>—</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Wed, Sep 10</td>
+    <td>Justification and Knowledge</td>
+    <td>Linda Zagzebski, <i>The Inescapability of Gettier Problems</i></td>
+    <td>Reading Response 1 due before class</td>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Sat, Sep 13</td>
+    <td>—</td>
+    <td>—</td>
+    <td>Syllabus Quiz due by 11:59 PM</td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td>Mon, Sep 15</td>
+    <td>Justification and Knowledge</td>
+    <td>Michael Huemer, <i>Compassionate Phenomenal Conservatism</i></td>
+    <td>Reading Response 2 due before class</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Wed, Sep 17</td>
+    <td>Justification and Knowledge</td>
+    <td>Alvin Goldman, <i>What is Justified Belief?</i></td>
+    <td>Reading Response 3 due before class</td>
+  </tr>
+
+  <tr>
+    <td>3</td>
+    <td>Mon, Sep 22</td>
+    <td>Justification and Knowledge</td>
+    <td>Amia Srinivasan, <i>Radical Externalism</i></td>
+    <td>Reading Response 4 due before class</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Wed, Sep 24</td>
+    <td>Debate Workshop 1</td>
+    <td>—</td>
+    <td>Defense Script 1 due by 11:59 PM</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Sun, Sep 28</td>
+    <td>—</td>
+    <td>—</td>
+    <td>Response Script 1 due by 12 PM</td>
+  </tr>
+
+  <tr>
+    <td>4</td>
+    <td>Mon, Sep 29</td>
+    <td>Oral Defense 1</td>
+    <td>—</td>
+    <td>Oral Defense 1</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Wed, Oct 1</td>
+    <td>Testimony</td>
+    <td>Elizabeth Fricker, <i>Critical Notice: Telling and Trusting: Reductionism and Anti-Reductionism in the Epistemology of Testimony</i></td>
+    <td>Reading Response 5 due before class</td>
+  </tr>
+
+  <tr>
+    <td>5</td>
+    <td>Mon, Oct 6</td>
+    <td>Testimony</td>
+    <td>Richard Moran, <i>Getting Told and Being Believed</i></td>
+    <td>Reading Response 6 due before class</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Wed, Oct 8</td>
+    <td>Testimony</td>
+    <td>Jennifer Lackey, <i>It Takes Two to Tango: Beyond Reductionism and Non-Reductionism in the Epistemology of Testimony</i></td>
+    <td>Reading Response 7 due before class</td>
+  </tr>
+
+  <tr>
+    <td>6</td>
+    <td>Mon, Oct 13</td>
+    <td>Testimony</td>
+    <td>Alison Hills, <i>Moral Testimony</i></td>
+    <td>Reading Response 8 due before class</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Wed, Oct 15</td>
+    <td>Debate Workshop 2</td>
+    <td>—</td>
+    <td>Defense Script 2 due by 11:59 PM</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Sun, Oct 19</td>
+    <td>—</td>
+    <td>—</td>
+    <td>Response Script 2 due by 12 PM</td>
+  </tr>
+
+  <tr>
+    <td>7</td>
+    <td>Mon, Oct 20</td>
+    <td>Oral Defense 2</td>
+    <td>—</td>
+    <td>Oral Defense 2</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Wed, Oct 22</td>
+    <td>Trust and Distrust</td>
+    <td>Sanford Goldberg, <i>Trust and Reliance</i></td>
+    <td>Reading Response 9 due before class</td>
+  </tr>
+
+  <tr>
+    <td>8</td>
+    <td>Mon, Oct 27</td>
+    <td>Trust and Distrust</td>
+    <td>C. Thi Nguyen, <i>Echo Chambers and Epistemic Bubbles</i></td>
+    <td>Reading Response 10 due before class</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>Wed, Oct 29</td>
+    <td>Trust and Distrust</td>
+    <td>Don Fallis, <i>Adversarial Epistemology on the Internet</i></td>
+    <td>Reading Response 11 due before class</td>
+  </tr>
+
+  <tr>
+    <td>9</td>
+    <td>Mon, Nov 3</td>
+    <td>Thinking in the Age of AI</td>
+    <td>Ori Freiman, <i>AI-Testimony, Conversational AIs and Our Anthropocentric Theory of Testimony</i></td>
+    <td>Reading Response 12 due before class</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>Wed, Nov 5</td>
+    <td>Thinking in the Age of AI</td>
+    <td>Hicks et al., <i>ChatGPT is Bullshit</i></td>
+    <td>Reading Response 13 due before class</td>
+  </tr>
+
+  <tr>
+    <td>10</td>
+    <td>Mon, Nov 10</td>
+    <td>Thinking in the Age of AI</td>
+    <td>Mark Coeckelbergh, <i>AI and Epistemic Agency: How AI Influences Belief Revision and Its Normative Implications</i></td>
+    <td>Reading Response 14 due before class</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Wed, Nov 12</td>
+    <td>Debate Workshop 3</td>
+    <td>—</td>
+    <td>Defense Script 3 due by 11:59 PM</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Sun, Nov 16</td>
+    <td>—</td>
+    <td>—</td>
+    <td>Response Script 3 due by 12 PM</td>
+  </tr>
+
+  <tr>
+    <td>11</td>
+    <td>Mon, Nov 17</td>
+    <td>Oral Defense 3</td>
+    <td>—</td>
+    <td>Oral Defense 3</td>
+  </tr>
+</tbody>
+</table>
