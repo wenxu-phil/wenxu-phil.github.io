@@ -1,7 +1,7 @@
 ---
 title: "Philosophy of AI"
 subtitle: "University of Denver — Fall 2026"
-draft: true
+draft: false
 ---
 
 ::: {.panel-tabset}
