@@ -18,9 +18,9 @@ In this course, we will explore the philosophical issues regarding our current s
 
 The course will focus on three broad areas:
 
-AI Metaphysics: Are current AI systems intelligent, conscious, or “minded” in any meaningful sense?
-AI Epistemology: Can AI systems represent knowledge, and what can we learn from their outputs?
-AI Ethics: How do AI technologies raise moral and societal concerns, including issues of fairness, justice, and social impact?
+- **AI Metaphysics**: Are current AI systems intelligent, conscious, or "minded" in any meaningful sense?
+- **AI Epistemology**: Can AI systems represent knowledge, and what can we learn from their outputs?
+- **AI Ethics**: How do AI technologies raise moral and societal concerns, including issues of fairness, justice, and social impact?
 
 No prerequisites are required. Students should be prepared to engage in careful reading, discussion, and critical reflection on the assigned texts. 
 
