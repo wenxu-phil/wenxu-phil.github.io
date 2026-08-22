@@ -140,13 +140,12 @@ img.about-image {
 /* Teaching page */
 
 .course-thumb {
-  width: 56px;
-  height: 56px;
+  width: 100%;
+  height: 80px;
   object-fit: cover;
   border-radius: 10px;
-  flex-shrink: 0;
-  filter: grayscale(60%) sepia(15%) hue-rotate(60deg) saturate(120%) brightness(0.95);
   border: 1px solid #cdd8d4;
+  filter: grayscale(60%) sepia(15%) hue-rotate(60deg) saturate(120%) brightness(0.95);
 }
 
 .course-item {
