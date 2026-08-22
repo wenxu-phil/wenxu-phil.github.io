@@ -114,7 +114,7 @@ I have taught philosophy at the University of Denver and the University of Color
 
 ::: {.course-item .grid}
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/introphil.JPG){.course-thumb}
+![](files/images/introphil.jpg){.course-thumb}
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Introduction to Philosophy</div>
