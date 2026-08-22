@@ -9,12 +9,13 @@ description-meta: "Wen Xu — Philosophy, AI, and Epistemology"
 author-meta: "Wen Xu"
 
 website:
-  title: "Wen Xu"
+  title: ""
   image: "files/images/Nico.png"
   description: "Wen Xu — Philosophy, AI, and Epistemology"
  
   navbar:
     background: "#ffffff" # You can change the background color here, "#5B7180" blue, "#687F78" green,
+    foreground: "#5F6F52"   # dark Morandi-style green for text/links
 
     right:   # You can comment out all navigation items here if you just like to keep the index page only
       - text: About
