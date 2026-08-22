@@ -12,7 +12,7 @@ I have taught philosophy at the University of Denver and the University of Color
 
 ::: {.course-item .grid}
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/introphil.jpg)
+![](files/images/introphil.jpg){.course-thumb}
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Discovering Philosophy</div>
@@ -22,7 +22,7 @@ I have taught philosophy at the University of Denver and the University of Color
 
 ::: {.course-item .grid}
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/ancientphil.JPG)
+![](files/images/ancientphil.JPG){.course-thumb}
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Classical Greek Philosophy</div>
@@ -32,7 +32,7 @@ I have taught philosophy at the University of Denver and the University of Color
 
 ::: {.course-item .grid}
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/think.JPG)
+![](files/images/think.JPG){.course-thumb}
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Philosophy of Mind</div>
@@ -42,7 +42,7 @@ I have taught philosophy at the University of Denver and the University of Color
 
 ::: {.course-item .grid}
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/mind.JPG)
+![](files/images/mind.JPG){.course-thumb}
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Nature and Limits of Human Knowledge</div>
@@ -55,7 +55,7 @@ I have taught philosophy at the University of Denver and the University of Color
 
 ::: {.course-item .grid}
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/language2.JPG)
+![](files/images/language2.JPG){.course-thumb}
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Philosophy of Language</div>
@@ -65,7 +65,7 @@ I have taught philosophy at the University of Denver and the University of Color
 
 ::: {.course-item .grid}
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/AI.JPG)
+![](files/images/AI.JPG){.course-thumb}
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Philosophy of AI</div>
@@ -80,7 +80,7 @@ I have taught philosophy at the University of Denver and the University of Color
 
 ::: {.course-item .grid}
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/introphil.jpg)
+![](files/images/introphil.jpg){.course-thumb}
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Introduction to Philosophy</div>
@@ -91,7 +91,7 @@ I have taught philosophy at the University of Denver and the University of Color
 
 ::: {.course-item .grid}
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/ancientphil.JPG)
+![](files/images/ancientphil.JPG){.course-thumb}
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Introduction to Western Philosophy: Ancient</div>
@@ -102,7 +102,7 @@ I have taught philosophy at the University of Denver and the University of Color
 
 ::: {.course-item .grid}
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/ancientphil2.JPG)
+![](files/images/ancientphil2.JPG){.course-thumb}
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">History of Ancient Philosophy</div>
@@ -114,7 +114,7 @@ I have taught philosophy at the University of Denver and the University of Color
 
 ::: {.course-item .grid}
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/introphil.JPG)
+![](files/images/introphil.JPG){.course-thumb}
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Introduction to Philosophy</div>
@@ -124,7 +124,7 @@ I have taught philosophy at the University of Denver and the University of Color
 
 ::: {.course-item .grid}
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/criticalthinking.JPG)
+![](files/images/criticalthinking.JPG){.course-thumb}
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Critical Thinking</div>
@@ -134,7 +134,7 @@ I have taught philosophy at the University of Denver and the University of Color
 
 ::: {.course-item .grid}
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/logic.JPG)
+![](files/images/logic.JPG){.course-thumb}
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Symbolic Logic</div>
@@ -144,7 +144,7 @@ I have taught philosophy at the University of Denver and the University of Color
 
 ::: {.course-item .grid}
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/ancientphil2.JPG)
+![](files/images/ancientphil2.JPG){.course-thumb}
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">History of Ancient Philosophy</div>
