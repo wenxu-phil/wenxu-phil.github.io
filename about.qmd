@@ -13,7 +13,7 @@ page-layout: full
 about:
   id: hero-heading
   template: trestles
-  image-width: 50%
+  image-width: 35%
 ---
 
 :::{#hero-heading}
