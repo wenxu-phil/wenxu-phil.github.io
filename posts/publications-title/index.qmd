@@ -4,8 +4,7 @@ description: "*Epistemology Review and Reply Collective 14* (9): 33–46. 2025"
 author: "Matthias Steup & Wen Xu"
 date: "2025-09-12"
 categories: [Publications]
-image: "/files/images/placeholder3.JPG"
-#css: /custom.css
+#image: "/files/images/placeholder3.JPG"
 #draft: true
 ---
 
