@@ -16,6 +16,10 @@ h3 {
   font-weight: 600;
 }
 
+h1, h2, h3 {
+  font-family: 'Comfortaa', sans-serif;
+}
+
 #title-block-header.quarto-title-block.default .quarto-title .title {
   color: #333d38; /*#333d38*/
 }
