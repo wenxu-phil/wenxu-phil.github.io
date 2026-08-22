@@ -218,7 +218,7 @@ img.about-image {
   width: 260px;
   height: 260px;
   object-fit: cover;
-  border-radius: 50px;
+  border-radius: 50%;
   box-shadow: 0 8px 24px rgba(74, 93, 82, 0.15);
 }
 
@@ -237,7 +237,7 @@ img.about-image {
 }
 
 .hero-eyebrow {
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-weight: 600;
   letter-spacing: 0.12em;
   text-transform: uppercase;
@@ -246,7 +246,7 @@ img.about-image {
 
 .hero-name {
   font-family: 'Cormorant Garamond', Georgia, serif;
-  font-size: 3rem;
+  font-size: 2.7rem;
   font-weight: 600;
   letter-spacing: 0.01em;
   color: #333d38;
@@ -261,7 +261,7 @@ img.about-image {
 }
 
 .hero-link {
-  margin-top: 0.4rem;
+  margin-top: 0.3rem;
   font-size: 0.92rem;
   font-weight: 500;
   color: #4A5D53;
