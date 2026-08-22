@@ -106,7 +106,3 @@ I’m a PhD Candidate in Philosophy and Cognitive Science at the University of C
 :::
 -->
 
-::: {#hero-heading}
-[Learn more about my research →](about.qmd)
-:::
-
