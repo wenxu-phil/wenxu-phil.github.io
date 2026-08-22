@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700&display=swap');
+
 /* css styles */
 /* about */
 #title-block-header .subtitle {
@@ -262,8 +264,6 @@ img.about-image {
   text-transform: uppercase;
   color: #687F78;
 }
-
-@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700&display=swap');
 
 .hero-name {
   font-family: 'Baloo 2', sans-serif;
