@@ -15,7 +15,7 @@ website:
  
   navbar:
     background: "#ffffff" # You can change the background color here, "#5B7180" blue, "#687F78" green,
-    foreground: "#4A5D53"   # dark Morandi-style green for text/links, #4A5D53 darker, #5F6F52 lighter.
+    # foreground: "#4A5D53"   # dark Morandi-style green for text/links, #4A5D53 darker, #5F6F52 lighter.
 
     right:   # You can comment out all navigation items here if you just like to keep the index page only
       - text: About
@@ -105,7 +105,9 @@ bibliography: references.bib  # Add references.bib to the root folder to enable 
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      - cosmo
+      - styles.scss
     css: styles.css
     toc: true
     footnotes-hover: true
