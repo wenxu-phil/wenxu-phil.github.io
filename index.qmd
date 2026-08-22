@@ -19,7 +19,7 @@ title-block-banner: false
 ::: {.hero-info}
 <span class="hero-eyebrow">PhD Student · Philosophy & Cognitive Science</span>
 
-<p class="hero-name">Wen Xu</p>
+<p class="hero-name">WEN XU</p>
 
 <p class="hero-inst">University of Colorado Boulder</p>
 
