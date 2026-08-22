@@ -25,7 +25,7 @@ title-block-banner: false
 
 <span class="hero-tags"><span class="tag">Philosophy of AI</span> <span class="tag">Epistemology</span></span>
 
-[About my research →](about.qmd){.hero-link}
+[More about me →](about.qmd){.hero-link}
 :::
 
 :::
