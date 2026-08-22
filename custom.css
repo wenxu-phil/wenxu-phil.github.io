@@ -6,14 +6,6 @@ span.__dimensions_badge_embed__, div.altmetric-embed {
 
 /* Research page */
 
-#title-block-header.quarto-title-block.default .quarto-title .title {
-  color: #333d38 !important; /*#333d38*/
-}
-
-#title-block-header .subtitle {
-  color: #687F78;
-}
-
 .thumbnail {
   display: none;
 }
