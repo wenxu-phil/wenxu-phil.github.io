@@ -1,6 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
 
 /* css styles */
+h1 {
+  color: #333d38;
+  font-weight: 700;
+}
+
+h2 {
+  color: #4A5D53;
+  font-weight: 600;
+}
+
+h3 {
+  color: #687F78;
+  font-weight: 600;
+}
+
+#title-block-header .title {
+  color: #333d38;
+}
+
+
 /* about */
 #title-block-header .subtitle {
   line-height: 1.5;
