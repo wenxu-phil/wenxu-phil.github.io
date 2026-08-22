@@ -12,11 +12,11 @@ h2 {
 }
 
 h3 {
-  color: #687F78;
+  color: #52655C;
   font-weight: 600;
 }
 
-#title-block-header .title {
+#title-block-header.quarto-title-block.default .quarto-title .title {
   color: #333d38;
 }
 
