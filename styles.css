@@ -1,5 +1,5 @@
 /* css styles */
-/* homepage */
+/* about */
 #title-block-header .subtitle {
   line-height: 1.6;
 }
@@ -198,4 +198,91 @@ img.about-image {
 .panel-tabset .nav-tabs .nav-link:hover {
   color: #2f3833;
   background-color: #dce6e2;
+}
+
+/* Homepage hero (minimal) */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600&display=swap');
+
+.hero-minimal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3.5rem;
+  max-width: 880px;
+  margin: 0 auto;
+  min-height: calc(100vh - 260px);
+  padding: 3rem 1.5rem;
+}
+
+.hero-photo img {
+  width: 260px;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 20px;
+  box-shadow: 0 8px 24px rgba(74, 93, 82, 0.15);
+}
+
+.hero-divider {
+  width: 1px;
+  align-self: stretch;
+  min-height: 220px;
+  background: #cdd8d4;
+}
+
+.hero-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+  max-width: 380px;
+}
+
+.hero-eyebrow {
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #687F78;
+}
+
+.hero-name {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 2.6rem;
+  font-weight: 600;
+  color: #333d38;
+  line-height: 1.1;
+  margin: 0;
+}
+
+.hero-inst {
+  font-size: 1rem;
+  color: #6b7280;
+  margin: 0;
+}
+
+.hero-link {
+  margin-top: 0.4rem;
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: #4A5D53;
+  text-decoration: none;
+  border-bottom: 1px solid #cdd8d4;
+  padding-bottom: 2px;
+  width: fit-content;
+  transition: border-color 0.2s ease, color 0.2s ease;
+}
+
+.hero-link:hover {
+  color: #2f3833;
+  border-color: #687F78;
+}
+
+@media (max-width: 700px) {
+  .hero-minimal {
+    flex-direction: column;
+    text-align: center;
+    min-height: auto;
+    padding: 3rem 1.5rem;
+  }
+  .hero-divider { display: none; }
+  .hero-info { align-items: center; max-width: 100%; }
 }
