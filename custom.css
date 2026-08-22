@@ -5,6 +5,11 @@ span.__dimensions_badge_embed__, div.altmetric-embed {
 }
 
 /* Research page */
+
+#title-block-header.quarto-title-block.default .quarto-title .title {
+  color: #333d38;
+}
+
 .thumbnail {
   display: none;
 }
