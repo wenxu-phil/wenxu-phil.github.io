@@ -1,0 +1,31 @@
+---
+title: "About"
+subtitle: |
+  <span class="subtitle-role">PhD Student</span><br>
+  <span class="subtitle-inst">University of Colorado Boulder</span><br>
+  <span class="subtitle-dept">Philosophy & Cognitive Science</span><br>
+  <span class="tag">Philosophy of AI</span> <span class="tag">Epistemology</span>
+description-meta: "Wen Xu — Philosophy, AI, and Epistemology"
+image: "files/images/Nico.png"
+page-navigation: false
+toc: false
+page-layout: full
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 70%
+---
+
+:::{#hero-heading}
+I'm a PhD Candidate in Philosophy and Cognitive Science at the University of Colorado Boulder. My research lies at the intersection of philosophy of AI and epistemology. My dissertation develops an epistemology of LLM-mediated communication; it asks what kind of epistemic source large language models are and when, if ever, their outputs confer justification for belief. Building on this framework, my broader research agenda seeks to bring philosophical perspectives and theoretical frameworks to some central questions in AI research and policy: what trustworthy AI should mean, how to give a precise and normative account of AI hallucination, and how much information users should disclose to AI systems and under what conditions.
+
+## Experience
+- Adjunct Faculty, Philosophy, University of Denver (2025-)
+- Visiting Teaching Assistant Professor, Philosophy, University of Denver (2024-25)
+
+## Education
+- (Expected May 2027) PhD in Philosophy and Cognitive Science, University of Colorado Boulder 
+- MS in Computer Science, University of Colorado Boulder
+- MA in Ancient Philosophy, University of Western Ontario
+- BA in Philosophy and Mathematics, Emory University
+:::
