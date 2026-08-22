@@ -51,6 +51,20 @@ img.about-image {
   height: auto;
 }
 
+/* about page left-right container size */
+.quarto-about-trestles {
+  gap: 3rem;
+}
+
+.quarto-about-trestles .about-entity {
+  flex: 0 0 200px !important;
+  width: 200px !important;
+}
+
+.quarto-about-trestles .about-contents {
+  flex: 1 1 auto !important;
+}
+
 /* contact.qmd */
 .contact-card {
   max-width: 420px;
