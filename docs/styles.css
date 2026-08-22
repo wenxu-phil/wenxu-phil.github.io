@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
-/* TEST MARKER 12345 */
+
 /* css styles */
 h1 {
   color: #333d38;
@@ -17,9 +17,8 @@ h3 {
 }
 
 #title-block-header.quarto-title-block.default .quarto-title .title {
-  color: #333d38;
+  color: #333d38 !important;
 }
-
 
 /* about */
 #title-block-header .subtitle {
