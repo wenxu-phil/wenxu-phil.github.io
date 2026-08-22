@@ -1,6 +1,8 @@
-/*-- scss:rules --*/
-.navbar {
-  a { color: #4A5D53 !important; }
-  .nav-link.active { color: #4A5D53 !important; }
-  .nav-link:hover { color: #7C8471 !important; }
+/*-- scss:defaults --*/
+$navbar-light-color: #4A5D53;          // normal navbar links
+$navbar-light-active-color: #4A5D53;   // current/active page link
+$navbar-light-hover-color: #7C8471;    // hover state
+
+.navbar .nav-link.active {
+  border-bottom: 2px solid #4A5D53;
 }
