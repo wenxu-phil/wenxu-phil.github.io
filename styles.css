@@ -145,7 +145,7 @@ img.about-image {
   object-fit: cover;
   border-radius: 10px;
   border: 1px solid #cdd8d4;
-  filter: grayscale(85%);
+  filter: grayscale(85%) saturate(120%) brightness(0.95);
 }
 
 .course-item {
