@@ -40,7 +40,6 @@
   <category>Works in Progress</category>
   <guid>https://wenxu-phil.github.io/posts/wip-title/grouptestimony.html</guid>
   <pubDate>Thu, 20 Aug 2026 06:00:00 GMT</pubDate>
-  <media:content url="https://wenxu-phil.github.io/files/images/placeholder3.JPG" medium="image"/>
 </item>
 <item>
   <title>Testimony without Consciousness</title>
@@ -64,7 +63,6 @@
   <category>Works in Progress</category>
   <guid>https://wenxu-phil.github.io/posts/wip-title/tconsciousness.html</guid>
   <pubDate>Thu, 20 Aug 2026 06:00:00 GMT</pubDate>
-  <media:content url="https://wenxu-phil.github.io/files/images/placeholder3.JPG" medium="image"/>
 </item>
 <item>
   <title>On Bullshit and Bullshitting: The Case of Large Language Models</title>
@@ -120,7 +118,9 @@
 
 <section id="summary" class="level2">
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<!--Include social share buttons-->
+<!--Include social share buttons
+
+
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
 Using includes will make edits easier, will only need to add or remove button here if needed.
@@ -130,6 +130,7 @@ https://quarto.org/docs/authoring/includes.html
 <p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
 </div>
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
+<p>–&gt;</p>
 
 
 </section>
@@ -138,7 +139,6 @@ https://quarto.org/docs/authoring/includes.html
   <category>Publications</category>
   <guid>https://wenxu-phil.github.io/posts/publications-title/</guid>
   <pubDate>Fri, 12 Sep 2025 06:00:00 GMT</pubDate>
-  <media:content url="https://wenxu-phil.github.io/files/images/placeholder3.JPG" medium="image"/>
 </item>
 <item>
   <title>Plato on Arithmetic</title>
