@@ -16,6 +16,14 @@ h3 {
   font-weight: 600;
 }
 
+#title-block-header.quarto-title-block.default .quarto-title .title {
+  color: #333d38; /*#333d38*/
+}
+
+#title-block-header .subtitle {
+  color: #4A5D53;
+}
+
 /* about */
 #title-block-header .subtitle {
   line-height: 1.5;
