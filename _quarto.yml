@@ -19,7 +19,7 @@ website:
 
     right:   # You can comment out all navigation items here if you just like to keep the index page only
       - text: About
-        href: index.qmd
+        href: about.qmd
       # - text: About
       #   menu:
       #     - text: News
