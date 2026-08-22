@@ -1,4 +1,6 @@
 /*-- scss:rules --*/
-body {
-  font-size: 0.95rem;  // try 0.9rem if still too big
-}
+
+/*-- scss:defaults --*/
+$navbar-fg: #4A5D53;                 // normal nav text (matches what you have)
+$navbar-hl: #7C8471;                 // hover color (a softer sage)
+$link-color: #4A5D53;                // this controls the "active" page link too
