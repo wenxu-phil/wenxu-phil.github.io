@@ -145,7 +145,7 @@ img.about-image {
   object-fit: cover;
   border-radius: 10px;
   border: 1px solid #cdd8d4;
-  filter: saturate(50%) brightness(0.95);
+  filter: saturate(60%) brightness(1);
 }
 
 .course-item {
