@@ -42,10 +42,7 @@ img.about-image {
   aspect-ratio: 1 / 1;
   border-radius: 50% !important;
   width: 100%;
-  max-width: 160px;   /* hard cap, not relative to container */
   height: auto;
-  align-self: flex-start;   /* hugs the top instead of centering vertically */
-  margin-top: 0;
 }
 
 /* contact.qmd */
