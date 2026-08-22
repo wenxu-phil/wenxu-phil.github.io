@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: ""
 subtitle: |
   <span class="subtitle-role">PhD Student</span><br>
   <span class="subtitle-inst">University of Colorado Boulder</span><br>
