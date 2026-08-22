@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&display=swap');
+
 
 /* css styles */
 /* about */
@@ -266,22 +268,20 @@ img.about-image {
 }
 
 .hero-name {
-  font-family: 'Nunito', sans-serif;
-  font-size: 2.6rem;
-  font-weight: 700;
-  color: #4A5D53;
+  font-family: 'Comfortaa', sans-serif;
+  font-size: 2.4rem;
+  font-weight: 600;
+  color: #333d38;
   line-height: 1.1;
   margin: 0;
 }
 
 /*
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&display=swap');
 .hero-name {
-  font-family: 'Cormorant Garamond', Georgia, serif;
-  font-size: 2.7rem;
-  font-weight: 600;
-  letter-spacing: 0.01em;
-  color: #333d38;
+  font-family: 'Nunito', sans-serif;
+  font-size: 2.6rem;
+  font-weight: 700;
+  color: #4A5D53;
   line-height: 1.1;
   margin: 0;
 }
