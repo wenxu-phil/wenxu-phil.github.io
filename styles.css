@@ -29,11 +29,17 @@
   color: #687F78;
   border: 1px solid #cdd8d4;
   border-radius: 999px;
-  padding: 0.15rem 0.65rem;
-  margin: 0.6rem 0.3rem 0 0;   /* top margin creates gap from dept line above */
-  font-size: 0.72rem;
+  padding: 0.2rem 0.75rem;
+  margin: 1rem 0.3rem 0 0;
+  font-size: 0.8rem;
   font-weight: 500;
   white-space: nowrap;
+}
+
+.tag-sm {
+  padding: 0.15rem 0.65rem;
+  margin: 0.6rem 0.3rem 0 0;
+  font-size: 0.72rem;
 }
 
 img.about-image {
