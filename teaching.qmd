@@ -32,7 +32,7 @@ I have taught philosophy at the University of Denver and the University of Color
 
 ::: {.course-item .grid}
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/mind.JPG)
+![](files/images/think.JPG)
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Philosophy of Mind</div>
@@ -42,7 +42,7 @@ I have taught philosophy at the University of Denver and the University of Color
 
 ::: {.course-item .grid}
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/think.JPG)
+![](files/images/mind.JPG)
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Nature and Limits of Human Knowledge</div>
@@ -124,7 +124,7 @@ I have taught philosophy at the University of Denver and the University of Color
 
 ::: {.course-item .grid}
 ::: {.g-col-12 .g-col-md-2}
-![](files/images/critical thinking.JPG)
+![](files/images/criticalthinking.JPG)
 :::
 ::: {.g-col-12 .g-col-md-10}
 <div class="course-title">Critical Thinking</div>
